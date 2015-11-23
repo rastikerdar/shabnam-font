@@ -4,7 +4,7 @@ FullName: Shabnam Bold
 FamilyName: Shabnam
 Weight: Bold
 Copyright: Copyright (c) 2003 by Bitstream, Inc. All Rights Reserved.\nDejaVu changes are in public domain\nCopyright (c) 2015 by Saber Rastikerdar. All Rights Reserved.
-Version: 0.4
+Version: 0.5
 ItalicAngle: 0
 UnderlinePosition: -100
 UnderlineWidth: 100
@@ -21,25 +21,25 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1431850356
-ModificationTime: 1447447721
+ModificationTime: 1448301841
 PfmFamily: 33
 TTFWeight: 700
 TTFWidth: 5
 LineGap: 0
 VLineGap: 0
 Panose: 2 11 6 3 3 8 4 2 2 4
-OS2TypoAscent: 2250
+OS2TypoAscent: 2000
 OS2TypoAOffset: 0
-OS2TypoDescent: -750
+OS2TypoDescent: -1000
 OS2TypoDOffset: 0
 OS2TypoLinegap: 0
-OS2WinAscent: 2250
+OS2WinAscent: 2000
 OS2WinAOffset: 0
-OS2WinDescent: 750
+OS2WinDescent: 1000
 OS2WinDOffset: 0
-HheadAscent: 2250
+HheadAscent: 2000
 HheadAOffset: 0
-HheadDescent: -750
+HheadDescent: -1000
 HheadDOffset: 0
 OS2SubXSize: 1331
 OS2SubYSize: 1433
@@ -2312,7 +2312,7 @@ ShortTable: maxp 16
   8
   4
 EndShort
-LangName: 1033 "" "" "" "Shabnam Bold 0.4" "" "Version 0.4" "" "" "DejaVu fonts team - Redesigned by Saber Rastikerdar - Based on Vazir font" "" "" "" "" "Changes to Arabic glyphs by me are under SIL Open Font License 1.1+AAoACgAA-Fonts are (c) Bitstream (see below). DejaVu changes are in public domain. +AAoACgAA-Bitstream Vera Fonts Copyright+AAoA-------------------------------+AAoACgAA-Copyright (c) 2003 by Bitstream, Inc. All Rights Reserved. Bitstream Vera is+AAoA-a trademark of Bitstream, Inc.+AAoACgAA-Permission is hereby granted, free of charge, to any person obtaining a copy+AAoA-of the fonts accompanying this license (+ACIA-Fonts+ACIA) and associated+AAoA-documentation files (the +ACIA-Font Software+ACIA), to reproduce and distribute the+AAoA-Font Software, including without limitation the rights to use, copy, merge,+AAoA-publish, distribute, and/or sell copies of the Font Software, and to permit+AAoA-persons to whom the Font Software is furnished to do so, subject to the+AAoA-following conditions:+AAoACgAA-The above copyright and trademark notices and this permission notice shall+AAoA-be included in all copies of one or more of the Font Software typefaces.+AAoACgAA-The Font Software may be modified, altered, or added to, and in particular+AAoA-the designs of glyphs or characters in the Fonts may be modified and+AAoA-additional glyphs or characters may be added to the Fonts, only if the fonts+AAoA-are renamed to names not containing either the words +ACIA-Bitstream+ACIA or the word+AAoAIgAA-Vera+ACIA.+AAoACgAA-This License becomes null and void to the extent applicable to Fonts or Font+AAoA-Software that has been modified and is distributed under the +ACIA-Bitstream+AAoA-Vera+ACIA names.+AAoACgAA-The Font Software may be sold as part of a larger software package but no+AAoA-copy of one or more of the Font Software typefaces may be sold by itself.+AAoACgAA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND, EXPRESS+AAoA-OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY,+AAoA-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT,+AAoA-TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL BITSTREAM OR THE GNOME+AAoA-FOUNDATION BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING+AAoA-ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES,+AAoA-WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF+AAoA-THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE+AAoA-FONT SOFTWARE.+AAoACgAA-Except as contained in this notice, the names of Gnome, the Gnome+AAoA-Foundation, and Bitstream Inc., shall not be used in advertising or+AAoA-otherwise to promote the sale, use or other dealings in this Font Software+AAoA-without prior written authorization from the Gnome Foundation or Bitstream+AAoA-Inc., respectively. For further information, contact: fonts at gnome dot+AAoA-org. " "http://scripts.sil.org/OFL_web - http://dejavu.sourceforge.net/wiki/index.php/License" "" "Shabnam" "Bold" 
+LangName: 1033 "" "" "" "Shabnam Bold 0.5" "" "Version 0.5" "" "" "DejaVu fonts team - Redesigned by Saber Rastikerdar - Based on Vazir font" "" "" "" "" "Changes to Arabic glyphs by me are under SIL Open Font License 1.1+AAoACgAA-Fonts are (c) Bitstream (see below). DejaVu changes are in public domain. +AAoACgAA-Bitstream Vera Fonts Copyright+AAoA-------------------------------+AAoACgAA-Copyright (c) 2003 by Bitstream, Inc. All Rights Reserved. Bitstream Vera is+AAoA-a trademark of Bitstream, Inc.+AAoACgAA-Permission is hereby granted, free of charge, to any person obtaining a copy+AAoA-of the fonts accompanying this license (+ACIA-Fonts+ACIA) and associated+AAoA-documentation files (the +ACIA-Font Software+ACIA), to reproduce and distribute the+AAoA-Font Software, including without limitation the rights to use, copy, merge,+AAoA-publish, distribute, and/or sell copies of the Font Software, and to permit+AAoA-persons to whom the Font Software is furnished to do so, subject to the+AAoA-following conditions:+AAoACgAA-The above copyright and trademark notices and this permission notice shall+AAoA-be included in all copies of one or more of the Font Software typefaces.+AAoACgAA-The Font Software may be modified, altered, or added to, and in particular+AAoA-the designs of glyphs or characters in the Fonts may be modified and+AAoA-additional glyphs or characters may be added to the Fonts, only if the fonts+AAoA-are renamed to names not containing either the words +ACIA-Bitstream+ACIA or the word+AAoAIgAA-Vera+ACIA.+AAoACgAA-This License becomes null and void to the extent applicable to Fonts or Font+AAoA-Software that has been modified and is distributed under the +ACIA-Bitstream+AAoA-Vera+ACIA names.+AAoACgAA-The Font Software may be sold as part of a larger software package but no+AAoA-copy of one or more of the Font Software typefaces may be sold by itself.+AAoACgAA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND, EXPRESS+AAoA-OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY,+AAoA-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT,+AAoA-TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL BITSTREAM OR THE GNOME+AAoA-FOUNDATION BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING+AAoA-ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES,+AAoA-WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF+AAoA-THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE+AAoA-FONT SOFTWARE.+AAoACgAA-Except as contained in this notice, the names of Gnome, the Gnome+AAoA-Foundation, and Bitstream Inc., shall not be used in advertising or+AAoA-otherwise to promote the sale, use or other dealings in this Font Software+AAoA-without prior written authorization from the Gnome Foundation or Bitstream+AAoA-Inc., respectively. For further information, contact: fonts at gnome dot+AAoA-org. " "http://scripts.sil.org/OFL_web - http://dejavu.sourceforge.net/wiki/index.php/License" "" "Shabnam" "Bold" 
 GaspTable: 2 8 2 65535 3 0
 MATH:ScriptPercentScaleDown: 80
 MATH:ScriptScriptPercentScaleDown: 60
@@ -2378,7 +2378,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 25 25 13
+WinInfo: 0 25 13
 BeginPrivate: 6
 BlueScale 8 0.039625
 StdHW 5 [162]
@@ -3473,7 +3473,7 @@ AnchorPoint: "Anchor-7" 291.317 -231.5 basechar 0
 LayerCount: 2
 Fore
 Refer: 44 1575 N 1 0 0 1 54 0 2
-Refer: 83 1619 N 1 0 0 1 -119.522 113.5 2
+Refer: 83 1619 S 1 0 0 1 -119.522 113.5 2
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Arabic lookup 19 subtable" uni0627 uni0653
 Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uniFE82
@@ -3485,11 +3485,11 @@ Width: 544
 VWidth: 2237
 GlyphClass: 3
 Flags: W
-AnchorPoint: "Anchor-10" 243.95 1850.5 basechar 0
+AnchorPoint: "Anchor-10" 243.95 1880.5 basechar 0
 AnchorPoint: "Anchor-7" 237.95 -212.5 basechar 0
 LayerCount: 2
 Fore
-Refer: 84 1620 N 1 0 0 1 -303.89 25.3 2
+Refer: 84 1620 S 1 0 0 1 -303.89 55.3 2
 Refer: 44 1575 N 1 0 0 1 0 0 2
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Arabic lookup 19 subtable" uni0627 uni0654
@@ -3520,10 +3520,10 @@ VWidth: 2237
 GlyphClass: 3
 Flags: W
 AnchorPoint: "Anchor-10" 221.95 1514 basechar 0
-AnchorPoint: "Anchor-7" 263.95 -542 basechar 0
+AnchorPoint: "Anchor-7" 263.95 -553 basechar 0
 LayerCount: 2
 Fore
-Refer: 85 1621 N 1 0 0 1 -283.89 51 2
+Refer: 85 1621 S 1 0 0 1 -283.89 40 2
 Refer: 44 1575 N 1 0 0 1 0 0 2
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Arabic lookup 19 subtable" uni0627 uni0655
@@ -4826,15 +4826,19 @@ AnchorPoint: "Anchor-1" 442.84 1264.52 mark 0
 LayerCount: 2
 Fore
 SplineSet
-109.638 1365.05 m 5,0,1
- 212.289 1479.87 212.289 1479.87 287.73 1453.49 c 4,2,3
- 442.183 1397.9 442.183 1397.9 515.207 1405.97 c 4,4,5
- 587.354 1413.79 587.354 1413.79 656.914 1479.92 c 5,6,-1
- 704.93 1408.22 l 5,7,8
- 617.699 1349.9 617.699 1349.9 559.504 1324.21 c 4,9,10
- 491.236 1295.05 491.236 1295.05 293.235 1356.78 c 4,11,12
- 239.766 1372.07 239.766 1372.07 165.102 1302.38 c 5,13,-1
- 109.638 1365.05 l 5,0,1
+94.7278 1378.38 m 2,0,1
+ 206.285 1503.16 206.285 1503.16 294.419 1472.34 c 0,2,3
+ 444.606 1418.29 444.606 1418.29 513.012 1425.85 c 0,4,5
+ 578.474 1432.95 578.474 1432.95 643.134 1494.42 c 2,6,-1
+ 660.33 1510.76 l 1,7,-1
+ 731.834 1403.99 l 1,8,-1
+ 717.33 1392.53 l 2,9,10
+ 621.537 1316.83 621.537 1316.83 563.787 1304.67 c 1,11,12
+ 465.758 1282.05 465.758 1282.05 287.507 1337.62 c 1,13,14
+ 245.139 1349.73 245.139 1349.73 178.749 1287.76 c 2,15,-1
+ 163.736 1273.75 l 1,16,-1
+ 82.8708 1365.12 l 1,17,-1
+ 94.7278 1378.38 l 2,0,1
 EndSplineSet
 EndChar
 
@@ -6371,7 +6375,7 @@ EndChar
 
 StartChar: uniFBFE
 Encoding: 64510 64510 151
-Width: 659
+Width: 660
 VWidth: 2237
 GlyphClass: 2
 Flags: W
@@ -8820,27 +8824,26 @@ LayerCount: 2
 Fore
 SplineSet
 727.628 143.238 m 0,0,1
- 699.843 73.9495 699.843 73.9495 624.572 31.7227 c 0,2,3
- 555.974 -6.76074 555.974 -6.76074 462.213 -9.97168 c 0,4,5
- 281.942 -15.8721 281.942 -15.8721 200.58 46.0996 c 1,6,7
- 138.392 0 138.392 0 35.9805 0 c 2,8,-1
- -59.4004 0 l 1,9,-1
- -59.4004 280.979 l 1,10,-1
- 50.96 280.979 l 2,11,12
- 77.3375 280.979 77.3375 280.979 76.5576 286.004 c 0,13,14
- 77.7451 504.306 77.7451 504.306 105.018 580.359 c 0,15,16
- 143.716 689.476 143.716 689.476 223.89 748.523 c 128,-1,17
- 304.063 807.57 304.063 807.57 416.855 808.996 c 0,18,19
- 561.745 810.835 561.745 810.835 647.059 744.193 c 0,20,21
- 741.763 669.789 741.763 669.789 758.625 533.562 c 0,22,23
+ 669.03 -2.88902 669.03 -2.88902 462.213 -9.97168 c 0,2,3
+ 281.942 -15.8721 281.942 -15.8721 200.58 46.0996 c 1,4,5
+ 138.392 0 138.392 0 35.9805 0 c 2,6,-1
+ -59.4004 0 l 1,7,-1
+ -59.4004 280.979 l 1,8,-1
+ 50.96 280.979 l 2,9,10
+ 77.3375 280.979 77.3375 280.979 76.5576 286.004 c 0,11,12
+ 77.7451 504.306 77.7451 504.306 105.018 580.359 c 0,13,14
+ 143.716 689.476 143.716 689.476 223.89 748.523 c 128,-1,15
+ 304.063 807.57 304.063 807.57 416.855 808.996 c 0,16,17
+ 561.745 810.835 561.745 810.835 647.059 744.193 c 0,18,19
+ 741.763 669.789 741.763 669.789 758.625 533.562 c 0,20,21
  787.499 290.223 787.499 290.223 727.628 143.238 c 0,0,1
-438.573 260.197 m 0,24,25
- 520.651 261.052 520.651 261.052 524.846 353.061 c 0,26,27
- 528.224 417.335 528.224 417.335 522.576 465.064 c 0,28,29
- 512.953 541.943 512.953 541.943 437.169 542.883 c 0,30,31
- 348.373 544.083 348.373 544.083 336.133 453.146 c 0,32,33
- 329.263 403.662 329.263 403.662 334.106 356.041 c 0,34,35
- 345.403 259.055 345.403 259.055 438.573 260.197 c 0,24,25
+438.573 260.197 m 0,22,23
+ 520.651 261.052 520.651 261.052 524.846 353.061 c 0,24,25
+ 528.224 417.335 528.224 417.335 522.576 465.064 c 0,26,27
+ 512.953 541.943 512.953 541.943 437.169 542.883 c 0,28,29
+ 348.373 544.083 348.373 544.083 336.133 453.146 c 0,30,31
+ 329.263 403.662 329.263 403.662 334.106 356.041 c 0,32,33
+ 345.403 259.055 345.403 259.055 438.573 260.197 c 0,22,23
 EndSplineSet
 EndChar
 
@@ -8921,7 +8924,7 @@ EndChar
 
 StartChar: uniFEE7
 Encoding: 65255 65255 271
-Width: 568
+Width: 630
 VWidth: 2237
 GlyphClass: 2
 Flags: W
@@ -8929,7 +8932,7 @@ AnchorPoint: "Anchor-10" 302.93 1296.53 basechar 0
 AnchorPoint: "Anchor-7" 262.93 -231.5 basechar 0
 LayerCount: 2
 Fore
-Refer: 292 -1 S 1.07 0 0 1.07 228.68 940.53 2
+Refer: 292 -1 N 1.07 0 0 1.07 228.68 940.53 2
 Refer: 297 -1 N 1 0 0 1 0 0 2
 EndChar
 
