@@ -29,3 +29,6 @@
 }
 ```
 
+## Contributors
+
+- Allen Bargi [@aziz] (https://github.com/aziz)
