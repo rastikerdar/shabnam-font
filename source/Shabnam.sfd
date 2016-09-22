@@ -4,7 +4,7 @@ FullName: Shabnam
 FamilyName: Shabnam
 Weight: Regular
 Copyright: Copyright (c) 2003 by Bitstream, Inc. All Rights Reserved.\nDejaVu changes are in public domain\nCopyright (c) 2015 by Saber Rastikerdar. All Rights Reserved.\nNon-Arabic(Latin) glyphs and data are imported from Roboto font under the Apache License, Version 2.0.
-Version: 1.0.0
+Version: 1.0.1
 ItalicAngle: 0
 UnderlinePosition: -500
 UnderlineWidth: 100
@@ -22,7 +22,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1431850356
-ModificationTime: 1474503972
+ModificationTime: 1474508506
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -71,7 +71,6 @@ Lookup: 260 1 0 "'mark' Mark Positioning lookup 6" { "'mark' Mark Positioning lo
 Lookup: 260 1 0 "'mark' Mark Positioning lookup 7" { "'mark' Mark Positioning lookup 7 subtable"  } ['mark' ('arab' <'KUR ' 'SND ' 'URD ' 'dflt' > 'hebr' <'dflt' > 'nko ' <'dflt' > ) ]
 Lookup: 261 1 0 "'mark' Mark Positioning lookup 8" { "'mark' Mark Positioning lookup 8 subtable"  } ['mark' ('arab' <'KUR ' 'SND ' 'URD ' 'dflt' > 'hebr' <'dflt' > 'nko ' <'dflt' > ) ]
 Lookup: 260 1 0 "'mark' Mark Positioning lookup 9" { "'mark' Mark Positioning lookup 9 subtable"  } ['mark' ('arab' <'KUR ' 'SND ' 'URD ' 'dflt' > 'hebr' <'dflt' > 'nko ' <'dflt' > ) ]
-Lookup: 258 0 0 "'kern' Horizontal Kerning in Latin lookup 14" { "'kern' Horizontal Kerning in Latin lookup 14 subtable"  } ['kern' ('latn' <'ISM ' 'KSM ' 'LSM ' 'MOL ' 'NSM ' 'ROM ' 'SKS ' 'SSM ' 'dflt' > ) ]
 Lookup: 258 9 0 "'kern' Horizontal Kerning lookup 15" { "'kern' Horizontal Kerning lookup 15-2" [307,30,2] "'kern' Horizontal Kerning lookup 15-1" [307,30,2] } ['kern' ('DFLT' <'dflt' > 'arab' <'KUR ' 'SND ' 'URD ' 'dflt' > 'armn' <'dflt' > 'brai' <'dflt' > 'cans' <'dflt' > 'cher' <'dflt' > 'cyrl' <'MKD ' 'SRB ' 'dflt' > 'geor' <'dflt' > 'grek' <'dflt' > 'hani' <'dflt' > 'hebr' <'dflt' > 'kana' <'dflt' > 'lao ' <'dflt' > 'latn' <'ISM ' 'KSM ' 'LSM ' 'MOL ' 'NSM ' 'ROM ' 'SKS ' 'SSM ' 'dflt' > 'math' <'dflt' > 'nko ' <'dflt' > 'ogam' <'dflt' > 'runr' <'dflt' > 'tfng' <'dflt' > 'thai' <'dflt' > ) ]
 MarkAttachClasses: 5
 "MarkClass-1" 307 gravecomb acutecomb uni0302 tildecomb uni0304 uni0305 uni0306 uni0307 uni0308 hookabovecomb uni030A uni030B uni030C uni030D uni030E uni030F uni0310 uni0311 uni0312 uni0313 uni0314 uni0315 uni033D uni033E uni033F uni0340 uni0341 uni0342 uni0343 uni0344 uni0346 uni034A uni034B uni034C uni0351 uni0352 uni0357
@@ -79,139 +78,6 @@ MarkAttachClasses: 5
 "MarkClass-3" 7 uni0327
 "MarkClass-4" 7 uni0328
 DEI: 91125
-KernClass2: 53 80 "'kern' Horizontal Kerning in Latin lookup 14 subtable"
- 6 hyphen
- 1 A
- 1 B
- 1 C
- 12 D Eth Dcaron
- 1 F
- 8 G Gbreve
- 1 H
- 1 J
- 9 K uniA740
- 15 L Lacute Lcaron
- 44 O Ograve Oacute Ocircumflex Otilde Odieresis
- 1 P
- 1 Q
- 15 R Racute Rcaron
- 17 S Scedilla Scaron
- 9 T uniA724
- 43 U Ugrave Uacute Ucircumflex Udieresis Uring
- 1 V
- 1 W
- 1 X
- 18 Y Yacute Ydieresis
- 8 Z Zcaron
- 44 e egrave eacute ecircumflex edieresis ecaron
- 1 f
- 9 k uniA741
- 15 n ntilde ncaron
- 44 o ograve oacute ocircumflex otilde odieresis
- 8 r racute
- 1 v
- 1 w
- 1 x
- 18 y yacute ydieresis
- 13 guillemotleft
- 14 guillemotright
- 6 Agrave
- 28 Aacute Acircumflex Adieresis
- 6 Atilde
- 2 AE
- 22 Ccedilla Cacute Ccaron
- 5 Thorn
- 10 germandbls
- 3 eth
- 14 Amacron Abreve
- 7 Aogonek
- 6 Dcroat
- 4 ldot
- 6 rcaron
- 6 Tcaron
- 7 uni2010
- 12 quotedblleft
- 12 quotedblbase
- 6 hyphen
- 6 period
- 5 colon
- 44 A Agrave Aacute Acircumflex Atilde Adieresis
- 1 B
- 15 C Cacute Ccaron
- 8 D Dcaron
- 64 F H K L P R Thorn germandbls Lacute Lcaron Racute Rcaron uniA740
- 1 G
- 1 J
- 44 O Ograve Oacute Ocircumflex Otilde Odieresis
- 1 Q
- 49 S Sacute Scircumflex Scedilla Scaron Scommaaccent
- 8 T Tcaron
- 43 U Ugrave Uacute Ucircumflex Udieresis Uring
- 1 V
- 1 W
- 1 X
- 18 Y Yacute Ydieresis
- 8 Z Zcaron
- 8 a aacute
- 10 c ccedilla
- 3 d q
- 15 e eacute ecaron
- 1 f
- 12 g h m gbreve
- 1 i
- 1 l
- 15 n ntilde ncaron
- 8 o oacute
- 15 r racute rcaron
- 17 s scedilla scaron
- 8 t tcaron
- 14 u uacute uring
- 1 v
- 1 w
- 1 x
- 18 y yacute ydieresis
- 13 guillemotleft
- 14 guillemotright
- 2 AE
- 8 Ccedilla
- 41 agrave acircumflex atilde adieresis aring
- 28 egrave ecircumflex edieresis
- 3 eth
- 35 ograve ocircumflex otilde odieresis
- 28 ugrave ucircumflex udieresis
- 22 Amacron Abreve Aogonek
- 22 amacron abreve aogonek
- 13 cacute ccaron
- 68 Ccircumflex Cdotaccent Gcircumflex Gdotaccent Omacron Obreve uni022E
- 35 ccircumflex uni01C6 uni021B uni0231
- 23 cdotaccent tcommaaccent
- 6 dcaron
- 6 dcroat
- 33 emacron ebreve edotaccent eogonek
- 6 Gbreve
- 12 Gcommaaccent
- 23 iogonek ij rcommaaccent
- 28 omacron obreve ohungarumlaut
- 13 Ohungarumlaut
- 12 Tcommaaccent
- 4 Tbar
- 43 utilde umacron ubreve uhungarumlaut uogonek
- 28 Wcircumflex Wgrave Wdieresis
- 28 wcircumflex wacute wdieresis
- 18 Ycircumflex Ygrave
- 18 ycircumflex ygrave
- 15 uni01EA uni01EC
- 15 uni01EB uni01ED
- 7 uni021A
- 7 uni022F
- 7 uni0232
- 7 uni0233
- 6 wgrave
- 6 Wacute
- 12 quotedblleft
- 13 quotedblright
- 12 quotedblbase
- 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -96 {} -156 {} 0 {} 0 {} 0 {} 160 {} 244 {} 121 {} 160 {} 0 {} -401 {} 0 {} -255 {} -178 {} -217 {} -516 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 80 {} 0 {} 0 {} 0 {} 0 {} -117 {} 0 {} 0 {} -77 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 80 {} 0 {} -96 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 160 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -96 {} -77 {} -77 {} 121 {} 0 {} -77 {} 0 {} 0 {} -77 {} 0 {} -77 {} -77 {} 0 {} -340 {} 0 {} -276 {} -237 {} 0 {} -340 {} 0 {} 0 {} -77 {} -77 {} -77 {} -156 {} 0 {} 0 {} 0 {} 0 {} -77 {} 0 {} 0 {} -77 {} 0 {} -255 {} -178 {} 0 {} -295 {} -156 {} 0 {} 0 {} -77 {} 0 {} -77 {} 0 {} -77 {} 0 {} 121 {} 0 {} -77 {} -77 {} -77 {} -77 {} -77 {} -77 {} -77 {} -77 {} 0 {} 0 {} -77 {} -77 {} -340 {} 0 {} 0 {} -237 {} -178 {} -340 {} -295 {} -77 {} -77 {} -340 {} 0 {} -340 {} -295 {} -178 {} -237 {} -564 {} -541 {} 102 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -77 {} 0 {} 0 {} -77 {} 0 {} -77 {} 0 {} -77 {} 0 {} 0 {} -132 {} -156 {} 0 {} -237 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -132 {} -77 {} 0 {} -77 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -77 {} 0 {} 0 {} 0 {} 0 {} 0 {} -77 {} -77 {} 0 {} 0 {} -77 {} 0 {} 0 {} 0 {} -156 {} 0 {} -237 {} 0 {} -77 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -156 {} -237 {} -237 {} -178 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -77 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -77 {} -77 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -77 {} 0 {} 0 {} 0 {} 0 {} 0 {} -77 {} 0 {} 0 {} 0 {} 0 {} 80 {} 0 {} 0 {} 0 {} 0 {} 0 {} -77 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -77 {} 0 {} 0 {} -237 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -77 {} -77 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -77 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -237 {} 0 {} 0 {} 0 {} 0 {} 0 {} -237 {} 0 {} 0 {} 0 {} -96 {} -117 {} -401 {} 0 {} 0 {} -702 {} -340 {} -401 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -77 {} -77 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -401 {} 0 {} 0 {} -237 {} 0 {} 0 {} -319 {} 0 {} 0 {} -156 {} -319 {} 0 {} 0 {} -237 {} 0 {} 0 {} 0 {} -401 {} 0 {} 0 {} 0 {} 0 {} -401 {} -237 {} 0 {} -156 {} -237 {} -401 {} -401 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -237 {} 0 {} 0 {} -319 {} -156 {} 0 {} -77 {} -77 {} -237 {} 0 {} 0 {} 0 {} -401 {} 0 {} -156 {} -77 {} -156 {} 0 {} -401 {} 0 {} 0 {} -96 {} 0 {} -801 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -156 {} 0 {} 0 {} 0 {} 0 {} -217 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -77 {} -77 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -96 {} -96 {} -117 {} 0 {} 0 {} -77 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -156 {} -132 {} -156 {} 0 {} -156 {} 0 {} 0 {} -77 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -77 {} -77 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -156 {} -132 {} -237 {} 0 {} -459 {} 0 {} 0 {} -77 {} 0 {} -237 {} 0 {} 0 {} 0 {} 0 {} -237 {} 0 {} 0 {} -340 {} -117 {} 0 {} -156 {} 0 {} -156 {} 0 {} -77 {} 0 {} 0 {} -217 {} 0 {} 0 {} 0 {} 0 {} 0 {} -217 {} 0 {} 0 {} 0 {} -217 {} 0 {} 0 {} 0 {} -319 {} -276 {} 0 {} 0 {} -237 {} -77 {} -217 {} 0 {} -217 {} -217 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -132 {} -132 {} 0 {} 0 {} -77 {} 0 {} 0 {} 102 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -156 {} 0 {} 0 {} -599 {} -217 {} -479 {} -401 {} 0 {} -579 {} 0 {} 0 {} 0 {} 0 {} -77 {} 0 {} 0 {} 0 {} 0 {} 0 {} -77 {} 0 {} 0 {} 0 {} -77 {} 0 {} 0 {} 0 {} -401 {} 0 {} 0 {} 0 {} 0 {} 0 {} -77 {} 0 {} -77 {} -77 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -885 {} -1146 {} 0 {} 0 {} 121 {} -178 {} -77 {} -77 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -77 {} 0 {} -276 {} -237 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -77 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -96 {} -77 {} -401 {} 0 {} -96 {} -683 {} 0 {} -276 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -96 {} 0 {} -196 {} 0 {} 0 {} -156 {} 0 {} 0 {} -96 {} 0 {} -77 {} -156 {} -77 {} -77 {} 0 {} -77 {} 0 {} 0 {} 0 {} 0 {} -77 {} 0 {} 0 {} 0 {} -196 {} -156 {} 0 {} -156 {} -77 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 80 {} 80 {} -702 {} 0 {} 121 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -96 {} -77 {} -276 {} 0 {} -178 {} -156 {} -132 {} -178 {} 0 {} -217 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -319 {} 0 {} -237 {} -178 {} 0 {} -276 {} 0 {} -96 {} 0 {} 0 {} -196 {} 0 {} 0 {} 0 {} 0 {} 0 {} -196 {} 0 {} 0 {} 0 {} -196 {} 0 {} 0 {} 0 {} -237 {} -237 {} -77 {} 0 {} -217 {} -96 {} -196 {} 0 {} -196 {} -196 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -319 {} -276 {} -77 {} 0 {} 0 {} 0 {} 0 {} 80 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -401 {} -516 {} -479 {} -340 {} 0 {} -255 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -77 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -724 {} -742 {} 0 {} -742 {} 0 {} 0 {} -132 {} 0 {} 0 {} -742 {} -641 {} -724 {} 0 {} -664 {} 0 {} -724 {} 0 {} -683 {} -401 {} -237 {} 0 {} -255 {} -509 {} -613 {} 0 {} -570 {} -597 {} 0 {} 0 {} -742 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -96 {} -564 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -77 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -255 {} -564 {} -356 {} -276 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -77 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -340 {} 0 {} 0 {} -340 {} 0 {} 0 {} -96 {} 0 {} 0 {} -340 {} 0 {} 0 {} 0 {} -295 {} 0 {} 0 {} 0 {} -117 {} -379 {} -237 {} 0 {} 0 {} -340 {} -340 {} 0 {} -340 {} -295 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -599 {} 0 {} -178 {} -502 {} -255 {} -237 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -276 {} 0 {} 0 {} -255 {} 0 {} 0 {} -96 {} 0 {} 0 {} -255 {} -196 {} 0 {} 0 {} -156 {} 0 {} 0 {} 0 {} -77 {} -237 {} -77 {} 0 {} 0 {} -276 {} -255 {} 0 {} -255 {} -156 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -77 {} 0 {} -564 {} 0 {} -217 {} 0 {} 0 {} 0 {} 0 {} -319 {} 0 {} 0 {} 0 {} 0 {} -276 {} 0 {} 0 {} -77 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -196 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -237 {} 0 {} 0 {} -319 {} 0 {} -196 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -340 {} -178 {} -96 {} 0 {} -516 {} -885 {} -579 {} -340 {} 0 {} -237 {} 0 {} 0 {} 0 {} 0 {} -237 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -599 {} 0 {} 0 {} -579 {} 0 {} 0 {} -156 {} 0 {} 0 {} -579 {} 0 {} 0 {} 0 {} -502 {} 0 {} 0 {} 0 {} 0 {} -479 {} -319 {} 0 {} -237 {} -599 {} -579 {} 0 {} -579 {} -502 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -237 {} -77 {} -564 {} 0 {} -77 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -77 {} -77 {} -77 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -77 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -237 {} -319 {} -156 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -77 {} 0 {} 0 {} -77 {} 0 {} -77 {} -156 {} -77 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 140 {} 0 {} -502 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -77 {} 0 {} 0 {} -156 {} 0 {} 0 {} 0 {} 0 {} 0 {} -156 {} 0 {} 0 {} 0 {} -132 {} 0 {} 0 {} 0 {} -156 {} 0 {} 0 {} 0 {} 0 {} -77 {} -156 {} 0 {} -156 {} -132 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -319 {} -237 {} -196 {} 0 {} 80 {} -77 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -132 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -319 {} -156 {} -276 {} 0 {} -276 {} -401 {} -77 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -96 {} -77 {} -96 {} 0 {} -77 {} 0 {} 0 {} -77 {} -96 {} -77 {} 0 {} 0 {} 0 {} 0 {} 0 {} -117 {} 0 {} -156 {} 0 {} 0 {} 0 {} 0 {} -96 {} 0 {} -96 {} 0 {} 0 {} 0 {} -96 {} 0 {} 0 {} 0 {} 153 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 183 {} -664 {} 0 {} -117 {} -340 {} -237 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -77 {} -77 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -77 {} -579 {} 0 {} 0 {} -401 {} -237 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -77 {} -77 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -459 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -77 {} 0 {} -132 {} 0 {} 0 {} 0 {} 0 {} 0 {} -132 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -132 {} 0 {} -132 {} 0 {} 0 {} 0 {} -77 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -77 {} -621 {} -319 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -77 {} -77 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -641 {} 0 {} 0 {} 0 {} 0 {} 0 {} -77 {} -77 {} -77 {} 0 {} -77 {} -77 {} 0 {} 0 {} 0 {} -237 {} 0 {} -237 {} -77 {} 0 {} -319 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -77 {} -77 {} 0 {} -77 {} 0 {} 0 {} 321 {} -77 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -77 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -156 {} -156 {} -77 {} -77 {} 0 {} 0 {} -77 {} -77 {} 0 {} 0 {} -401 {} 0 {} -379 {} -237 {} -237 {} -479 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -77 {} -77 {} 0 {} -77 {} 0 {} 0 {} 0 {} -77 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -96 {} -77 {} -77 {} 121 {} 0 {} -77 {} 0 {} 0 {} -77 {} 0 {} -77 {} -77 {} 0 {} -340 {} 0 {} -276 {} -237 {} 0 {} -340 {} 0 {} 0 {} -77 {} -77 {} -77 {} -156 {} 0 {} 0 {} 0 {} 0 {} -77 {} 0 {} 0 {} -77 {} 0 {} -255 {} -178 {} 0 {} -295 {} -156 {} 0 {} 0 {} -77 {} 0 {} -77 {} 0 {} -77 {} 0 {} 121 {} 0 {} -77 {} -77 {} 0 {} -77 {} -77 {} 0 {} -77 {} -77 {} 0 {} 0 {} -77 {} -77 {} -340 {} 0 {} 0 {} -237 {} -178 {} -340 {} -295 {} 0 {} 0 {} 0 {} -77 {} 0 {} 0 {} 0 {} 0 {} -564 {} -541 {} 102 {} 0 {} -96 {} -77 {} -77 {} 121 {} 0 {} -77 {} 0 {} 0 {} -77 {} 0 {} -77 {} -77 {} 0 {} -340 {} 0 {} -276 {} -237 {} 0 {} -340 {} 0 {} 0 {} -77 {} -77 {} -77 {} -156 {} 0 {} 0 {} 0 {} 0 {} -77 {} 0 {} 0 {} -77 {} 0 {} -255 {} -178 {} 0 {} -295 {} -156 {} 0 {} 0 {} -77 {} 0 {} -77 {} 0 {} -77 {} 0 {} 121 {} 0 {} -77 {} -77 {} 0 {} -77 {} -77 {} 0 {} -77 {} -77 {} 0 {} 0 {} -77 {} -77 {} -340 {} 0 {} 0 {} -237 {} -178 {} -340 {} -295 {} 0 {} 0 {} 0 {} -77 {} 0 {} 0 {} 0 {} -237 {} -564 {} -541 {} 102 {} 0 {} -96 {} -77 {} -77 {} 121 {} 0 {} -77 {} 0 {} 0 {} -77 {} 0 {} -77 {} -77 {} 0 {} -340 {} 0 {} -276 {} -237 {} 0 {} -340 {} 0 {} 0 {} -77 {} -77 {} -77 {} -156 {} 0 {} 0 {} 0 {} 0 {} -77 {} 0 {} 0 {} -77 {} 0 {} -255 {} -178 {} 0 {} -295 {} -156 {} 0 {} 0 {} -77 {} 0 {} -77 {} 0 {} -77 {} 0 {} 121 {} 0 {} -77 {} -77 {} 0 {} -77 {} -77 {} 0 {} -77 {} -77 {} 0 {} 0 {} -77 {} -77 {} -340 {} 0 {} 0 {} -237 {} -178 {} -340 {} -295 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -237 {} -564 {} -541 {} 102 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -178 {} -196 {} -237 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -77 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -77 {} -77 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 80 {} 0 {} 0 {} 0 {} -319 {} -156 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -77 {} 0 {} -401 {} 0 {} 80 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -237 {} -237 {} -178 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -196 {} -237 {} -156 {} 0 {} -96 {} -77 {} -77 {} 121 {} 0 {} -77 {} 0 {} 0 {} -77 {} 0 {} -77 {} -77 {} 0 {} -340 {} 0 {} -276 {} -237 {} 0 {} -340 {} 0 {} 0 {} -77 {} -77 {} -77 {} -156 {} 0 {} 0 {} 0 {} 0 {} -77 {} 0 {} 0 {} -77 {} 0 {} -255 {} -178 {} 0 {} -295 {} -156 {} 0 {} 0 {} 0 {} 0 {} -77 {} 0 {} -77 {} 0 {} 121 {} 0 {} 0 {} -77 {} 0 {} -77 {} -77 {} -77 {} -77 {} 0 {} 0 {} 0 {} -77 {} -77 {} -340 {} 0 {} 0 {} -237 {} -178 {} -340 {} -295 {} 0 {} 0 {} 0 {} -77 {} 0 {} 0 {} 0 {} -237 {} -564 {} -542 {} 102 {} 0 {} -96 {} -77 {} -77 {} 121 {} 0 {} -77 {} 0 {} 0 {} -77 {} 0 {} -77 {} -77 {} 0 {} -340 {} 0 {} -276 {} -237 {} 0 {} -340 {} 0 {} 0 {} -77 {} -77 {} -77 {} -156 {} 0 {} 0 {} 0 {} 0 {} -77 {} 0 {} 0 {} -77 {} 0 {} -255 {} -178 {} 0 {} 0 {} -156 {} 0 {} 0 {} 0 {} 0 {} -77 {} 0 {} -77 {} 0 {} 121 {} 0 {} 0 {} -77 {} 0 {} -77 {} -77 {} -77 {} -77 {} 0 {} 0 {} 0 {} -77 {} 0 {} -340 {} 0 {} 0 {} -237 {} -178 {} -340 {} 0 {} 0 {} 0 {} 0 {} -77 {} 0 {} 0 {} 0 {} -237 {} -564 {} -542 {} 102 {} 0 {} 0 {} 0 {} 0 {} -77 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -77 {} 0 {} 0 {} -237 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -77 {} -77 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -96 {} -117 {} -401 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -411 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -276 {} -401 {} -77 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -96 {} -77 {} -96 {} 0 {} -77 {} 0 {} 0 {} -77 {} -96 {} -77 {} 0 {} 0 {} 0 {} 0 {} 0 {} -117 {} 0 {} -156 {} 0 {} 0 {} 0 {} 0 {} -96 {} 0 {} -96 {} 0 {} 0 {} 0 {} -96 {} 0 {} 0 {} 0 {} -77 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 183 {} -664 {} 0 {} -401 {} -516 {} -479 {} -340 {} 0 {} -255 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -77 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -724 {} -742 {} 0 {} -742 {} 0 {} 0 {} -132 {} 0 {} 0 {} -742 {} -641 {} -724 {} 0 {} -664 {} 0 {} -724 {} 0 {} -683 {} -401 {} -237 {} 0 {} -255 {} -724 {} -742 {} 0 {} -742 {} -664 {} 0 {} 0 {} -742 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -96 {} -564 {} 0 {} 0 {} 0 {} 0 {} -96 {} -156 {} 0 {} 0 {} 0 {} 160 {} 244 {} 121 {} 160 {} 0 {} -401 {} 0 {} -255 {} -178 {} -217 {} -516 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 80 {} 0 {} 0 {} 0 {} 0 {} -117 {} 0 {} 0 {} -77 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 80 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 160 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -564 {} -132 {} -156 {} -132 {} -132 {} -156 {} -132 {} -156 {} -156 {} 0 {} 0 {} 0 {} 0 {} 0 {} -255 {} 0 {} -77 {} 0 {} 0 {} 0 {} 0 {} -156 {} 0 {} 0 {} 0 {} -237 {} -319 {} -237 {} 0 {} 0 {} 0 {} -156 {} -156 {} 0 {} -156 {} 0 {} 0 {} -824 {} -156 {} 0 {} 0 {} -156 {} -319 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -156 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 80 {} -156 {} -237 {} -156 {} -156 {} -156 {} 102 {} -237 {} -237 {} 0 {} -599 {} 0 {} -801 {} -541 {} -156 {} -801 {} 0 {} 0 {} 0 {} 0 {} 0 {} -77 {} 0 {} 0 {} 0 {} -156 {} -156 {} -156 {} 0 {} 0 {} 0 {} -502 {} -418 {} 0 {} -237 {} 0 {} 0 {} 80 {} -237 {} 0 {} 0 {} -156 {} -156 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -156 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {}
 TtTable: prep
 PUSHW_1
  640
@@ -2046,7 +1912,7 @@ ShortTable: maxp 16
   8
   4
 EndShort
-LangName: 1033 "" "" "" "Shabnam Regular" "" "Version 1.0.0" "" "" "DejaVu fonts team - Redesigned by Saber Rastikerdar - Based on Vazir font" "" "" "" "" "Changes to Arabic glyphs by me are under SIL Open Font License 1.1+AAoA-Glyphs and data from Roboto font are licensed under the Apache License, Version 2.0.+AAoACgAA-Fonts are (c) Bitstream (see below). DejaVu changes are in public domain. +AAoACgAA-Bitstream Vera Fonts Copyright+AAoA-------------------------------+AAoACgAA-Copyright (c) 2003 by Bitstream, Inc. All Rights Reserved. Bitstream Vera is+AAoA-a trademark of Bitstream, Inc.+AAoACgAA-Permission is hereby granted, free of charge, to any person obtaining a copy+AAoA-of the fonts accompanying this license (+ACIA-Fonts+ACIA) and associated+AAoA-documentation files (the +ACIA-Font Software+ACIA), to reproduce and distribute the+AAoA-Font Software, including without limitation the rights to use, copy, merge,+AAoA-publish, distribute, and/or sell copies of the Font Software, and to permit+AAoA-persons to whom the Font Software is furnished to do so, subject to the+AAoA-following conditions:+AAoACgAA-The above copyright and trademark notices and this permission notice shall+AAoA-be included in all copies of one or more of the Font Software typefaces.+AAoACgAA-The Font Software may be modified, altered, or added to, and in particular+AAoA-the designs of glyphs or characters in the Fonts may be modified and+AAoA-additional glyphs or characters may be added to the Fonts, only if the fonts+AAoA-are renamed to names not containing either the words +ACIA-Bitstream+ACIA or the word+AAoAIgAA-Vera+ACIA.+AAoACgAA-This License becomes null and void to the extent applicable to Fonts or Font+AAoA-Software that has been modified and is distributed under the +ACIA-Bitstream+AAoA-Vera+ACIA names.+AAoACgAA-The Font Software may be sold as part of a larger software package but no+AAoA-copy of one or more of the Font Software typefaces may be sold by itself.+AAoACgAA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND, EXPRESS+AAoA-OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY,+AAoA-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT,+AAoA-TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL BITSTREAM OR THE GNOME+AAoA-FOUNDATION BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING+AAoA-ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES,+AAoA-WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF+AAoA-THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE+AAoA-FONT SOFTWARE.+AAoACgAA-Except as contained in this notice, the names of Gnome, the Gnome+AAoA-Foundation, and Bitstream Inc., shall not be used in advertising or+AAoA-otherwise to promote the sale, use or other dealings in this Font Software+AAoA-without prior written authorization from the Gnome Foundation or Bitstream+AAoA-Inc., respectively. For further information, contact: fonts at gnome dot+AAoA-org. " "http://scripts.sil.org/OFL_web +AAoA-http://dejavu.sourceforge.net/wiki/index.php/License+AAoA-http://www.apache.org/licenses/LICENSE-2.0" "" "Shabnam" "Regular"
+LangName: 1033 "" "" "" "Shabnam Regular" "" "Version 1.0.1" "" "" "DejaVu fonts team - Redesigned by Saber Rastikerdar - Based on Vazir font" "" "" "" "" "Changes to Arabic glyphs by me are under SIL Open Font License 1.1+AAoA-Glyphs and data from Roboto font are licensed under the Apache License, Version 2.0.+AAoACgAA-Fonts are (c) Bitstream (see below). DejaVu changes are in public domain. +AAoACgAA-Bitstream Vera Fonts Copyright+AAoA-------------------------------+AAoACgAA-Copyright (c) 2003 by Bitstream, Inc. All Rights Reserved. Bitstream Vera is+AAoA-a trademark of Bitstream, Inc.+AAoACgAA-Permission is hereby granted, free of charge, to any person obtaining a copy+AAoA-of the fonts accompanying this license (+ACIA-Fonts+ACIA) and associated+AAoA-documentation files (the +ACIA-Font Software+ACIA), to reproduce and distribute the+AAoA-Font Software, including without limitation the rights to use, copy, merge,+AAoA-publish, distribute, and/or sell copies of the Font Software, and to permit+AAoA-persons to whom the Font Software is furnished to do so, subject to the+AAoA-following conditions:+AAoACgAA-The above copyright and trademark notices and this permission notice shall+AAoA-be included in all copies of one or more of the Font Software typefaces.+AAoACgAA-The Font Software may be modified, altered, or added to, and in particular+AAoA-the designs of glyphs or characters in the Fonts may be modified and+AAoA-additional glyphs or characters may be added to the Fonts, only if the fonts+AAoA-are renamed to names not containing either the words +ACIA-Bitstream+ACIA or the word+AAoAIgAA-Vera+ACIA.+AAoACgAA-This License becomes null and void to the extent applicable to Fonts or Font+AAoA-Software that has been modified and is distributed under the +ACIA-Bitstream+AAoA-Vera+ACIA names.+AAoACgAA-The Font Software may be sold as part of a larger software package but no+AAoA-copy of one or more of the Font Software typefaces may be sold by itself.+AAoACgAA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND, EXPRESS+AAoA-OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY,+AAoA-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT,+AAoA-TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL BITSTREAM OR THE GNOME+AAoA-FOUNDATION BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING+AAoA-ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES,+AAoA-WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF+AAoA-THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE+AAoA-FONT SOFTWARE.+AAoACgAA-Except as contained in this notice, the names of Gnome, the Gnome+AAoA-Foundation, and Bitstream Inc., shall not be used in advertising or+AAoA-otherwise to promote the sale, use or other dealings in this Font Software+AAoA-without prior written authorization from the Gnome Foundation or Bitstream+AAoA-Inc., respectively. For further information, contact: fonts at gnome dot+AAoA-org. " "http://scripts.sil.org/OFL_web +AAoA-http://dejavu.sourceforge.net/wiki/index.php/License+AAoA-http://www.apache.org/licenses/LICENSE-2.0" "" "Shabnam" "Regular"
 GaspTable: 2 8 2 65535 3 0
 MATH:ScriptPercentScaleDown: 80
 MATH:ScriptScriptPercentScaleDown: 60
