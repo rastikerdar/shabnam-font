@@ -62,3 +62,10 @@ Replace [X.Y.Z] with the latest version (e.g. 1.0.2) and integrate the font into
 font-family: 'Shabnam', sans-serif;
 ```
 
+####Arch Linux
+
+Arch user's could use [ttf-shabnam](https://aur.archlinux.org/packages/ttf-shabnam/) package from [AUR](https://aur.archlinux.org/) repository to install shabnam font. Use your favourite [AUR helper](https://wiki.archlinux.org/index.php/AUR_helpers) like pacaur or yaourt for installing package:
+
+```shell
+pacaur -S ttf-shabnam
+```
