@@ -1,0 +1,21 @@
+{
+    "name": "shabnam-font",
+    "version": "1.1.0",
+    "main": [
+        "dist/*"
+    ],
+    "homepage": "http://rastikerdar.github.io/shabnam-font/",
+    "authors": [
+        { "name": "Saber Rastikerdar", "homepage": "http://rastikerdar.blog.ir" }
+    ],
+    "license": ["OFL"],
+    "ignore": [
+        "*.md",
+        "*.json",
+        "source"
+    ],
+    "keywords": [
+        "font",
+        "persian"
+    ]
+}
