@@ -1,5 +1,7 @@
 <h1 id="shabnam-font">Shabnam Font</h1>
 <p>A Persian (Farsi) Font</p>
+
+[![npm](https://img.shields.io/npm/v/shabnam-font.svg)](https://www.npmjs.com/package/shabnam-font)
 <p dir="rtl">فونت (قلم) فارسی شبنم</p>
 <p dir="rtl"><a href="http://rastikerdar.github.io/shabnam-font/">نمایش فونت</a></p>
 <p dir="rtl">با تشکر از برنامه <a href="https://fontforge.github.io">FontForge</a></p>
