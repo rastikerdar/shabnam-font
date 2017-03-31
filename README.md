@@ -44,11 +44,17 @@
 
 Grab the [latest release](https://github.com/rastikerdar/shabnam-font/releases/latest) file.
 
-Or you can get it on bower:
+#### bower
 
 ```
 bower install shabnam-font --save
 ```
+
+#### npm
+```
+npm install shabnam-font --save
+```
+Fonts will be copied to `npm_modules/shabnam-font/dist` directory
 
 Or [RawGit](https://rawgit.com) CDN:
 
