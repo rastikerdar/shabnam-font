@@ -1,5 +1,7 @@
 <h1 id="shabnam-font">Shabnam Font</h1>
 <p>A Persian (Farsi) Font</p>
+
+[![npm](https://img.shields.io/npm/v/shabnam-font.svg)](https://www.npmjs.com/package/shabnam-font)
 <p dir="rtl">فونت (قلم) فارسی شبنم</p>
 <p dir="rtl"><a href="http://rastikerdar.github.io/shabnam-font/">نمایش فونت</a></p>
 <p dir="rtl">با تشکر از برنامه <a href="https://fontforge.github.io">FontForge</a></p>
@@ -44,11 +46,17 @@
 
 Grab the [latest release](https://github.com/rastikerdar/shabnam-font/releases/latest) file.
 
-Or you can get it on bower:
+#### bower
 
 ```
 bower install shabnam-font --save
 ```
+
+#### npm
+```
+npm install shabnam-font --save
+```
+Fonts will be copied to `npm_modules/shabnam-font/dist` directory
 
 Or [RawGit](https://rawgit.com) CDN:
 
@@ -62,10 +70,10 @@ Replace [X.Y.Z] with the latest version (e.g. 2.0) and integrate the font into y
 font-family: 'Shabnam', sans-serif;
 ```
 
-####Arch Linux
+#### Arch Linux
 
-Arch user's could use [ttf-shabnam](https://aur.archlinux.org/packages/ttf-shabnam/) package from [AUR](https://aur.archlinux.org/) repository to install shabnam font. Use your favourite [AUR helper](https://wiki.archlinux.org/index.php/AUR_helpers) like pacaur or yaourt for installing package:
+Arch user's could use [shabnam-fonts](https://aur.archlinux.org/packages/shabnam-fonts/) package from [AUR](https://aur.archlinux.org/) repository to install shabnam font. Use your favourite [AUR helper](https://wiki.archlinux.org/index.php/AUR_helpers) like pacaur or yaourt for installing package:
 
 ```shell
-pacaur -S ttf-shabnam
+pacaur -S shabnam-fonts
 ```
