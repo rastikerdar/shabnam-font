@@ -1,203 +1,225 @@
 <html>
-  <head>
-    <title>فونت (قلم) فارسی شبنم - صفحه رسمی پروژه</title>
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes">
-    <meta name="description" content="قلم فارسی شبنم">   
-    <meta name="keywords" content="فونت,فارسی,شبنم,font,farsi,Shabnam">
-    <link type="text/css" rel="stylesheet" href="https://cdn.rawgit.com/rastikerdar/shabnam-font/v2.4.0/dist/font-face.css">
-    <style>
-      * {
-        margin: 0;
-        padding: 0;
-      }
 
-      a {
-        text-decoration: none;
-        color: #007fba;
-      }
-      
-      body {
-        color: #000;
-        font-size: 15px;
-        direction: rtl;
-        line-height: 1.8;
-        font-family: Shabnam,Tahoma,"DejaVu Sans",helvetica,arial,freesans,sans-serif;
-      }
+<head>
+  <title>فونت (قلم) فارسی شبنم - صفحه رسمی پروژه</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes">
+  <meta name="description" content="قلم فارسی شبنم">
+  <meta name="keywords" content="فونت,فارسی,شبنم,font,farsi,Shabnam">
+  <link type="text/css" rel="stylesheet" href="https://cdn.rawgit.com/rastikerdar/shabnam-font/v3.0.0/dist/font-face.css">
+  <style>
+    @font-face {
+      font-family: Shabnam;
+      src: url('Shabnam-Light.woff?v=3.0.0') format('woff');
+      font-weight: 300;
+    }
 
-      header, .sample, footer {
-        margin: auto;
-        padding: 70px 50px;
-      }
+    @font-face {
+      font-family: Shabnam;
+      src: url('Shabnam.woff?v=3.0.0') format('woff');
+      font-weight: normal;
+    }
 
-      header {
-        text-align: center;
-        background-color: #eee;
-        color: #444;
-      }
-      
-      header .get {
-        margin: 20px 0;
-      }
-      
-      header .get a {
-        display: inline-block;
-        border-bottom: 1px solid #d5d5d5;
-        color: #007fba;
-        margin: 0 5px;
-      }
-      
-      header .info{
-        color: #999;
-        font-size: 12px;
-      }
+    @font-face {
+      font-family: Shabnam;
+      src: url('Shabnam-Bold.woff?v=3.0.0') format('woff');
+      font-weight: bold;
+    }
 
-      header .notice {
-        color: #B40000;
-        font-size: 13px;
-      }
+    * {
+      margin: 0;
+      padding: 0;
+    }
 
-      .infobox {
-          background-color: #fff3c5;
-          border: 1px solid #e2e2e2;
-          border-radius: 5px;
-          color: #284559;
-          font-weight: 900;
-          line-height: 2;
-          margin: 15px auto;
-          max-width: 600px;
-          padding: 5px;
-          text-align: center;
-          font-size: 15px;
-      }
-      
-      .sample {
-        text-align: center;
-      }
-      
-      .sample.sec0 {
-        background-color: #555;
-        color: #eee;
-      }
+    a {
+      text-decoration: none;
+      color: #007fba;
+    }
 
-      .sample.sec-test {
-        background-color: #f9f9f9;
-        color: #51575B;
-      }
+    html {
+      font-size: 18px;
+    }
 
-      .sample.sec-test.second {
-        background-color: #f5f8fa;
-        color: #52595C;
-      }
+    body {
+      background-color: #2a3043;
+      color: #000;
+      direction: rtl;
+      line-height: 1.8;
+      font-family: Shabnam, Tahoma, "DejaVu Sans", helvetica, arial, freesans, sans-serif;
+    }
 
-      .sample.sec-test.second h2 {
-	font-weight: normal;
-      }
+    main {
+      background-color: #fff;
+    }
 
-      .sample.sec-test p {
-        font-size: 15px;
-        margin-bottom: 30px;
-      }
+    header,
+    .sample,
+    footer {
+      margin: 0 auto;
+      max-width: 900px;
+      padding: 20px 10px;
+    }
 
-      .sample.sec-test a { color: #0b6db3; }
+    header {
+      text-align: right;
+      color: #444;
+    }
 
-      .sample.sec1 {
-        background-color: #5F9D15;
-        color: #fff;
-        font-size: 15px;
+    header h1 {
+      font-size: 3rem;
+    }
+
+    header h1 span {
+      color: #c93495;
+    }
+
+    header .get {
+      margin: 20px 0;
+    }
+
+    header .get a {
+      display: inline-block;
+      border-bottom: 1px solid #d5d5d5;
+      color: #007fba;
+      margin: 0 5px;
+    }
+
+    header .info {
+      color: #999;
+      font-size: 0.9rem;
+    }
+
+    header .notice {
+      color: #B40000;
+      font-size: 13px;
+    }
+
+    .infobox {
+      background-color: #f0ffd0;
+      border: 1px solid #e2e2e2;
+      border-radius: 5px;
+      color: #222;
+      font-weight: 900;
+      line-height: 2;
+      margin: 15px auto;
+      max-width: 600px;
+      padding: 5px;
+    }
+
+    .sample {
+      color: #333;
+    }
+
+    .sample h2 {
+      font-weight: normal;
+    }
+
+    .sample p {
+      font-size: 1rem;
+      margin-bottom: 30px;
+    }
+
+    .sample a {
+      color: #0b6db3;
+    }
+
+    footer {
+      font-weight: 300;
+      color: #eee;
+      text-align: center;
+    }
+
+    footer a {
+      color: #D7DD77;
+      text-decoration: underline;
+    }
+
+    @media all and (max-width: 480px) {
+      html {
+        font-size: 14px;        
       }
-      .sample.sec2 {
-        background-color: #F2F2EE;
-        color: #222;
-        font-size: 18px;
-      }
-      
-      .sample.sec3 {
-        background-color: #566b98;
-        color: #fff;
-        font-size: 14px;
-      }
-      
-      .sample.sec3 a {
-        color: #E6FF65;
-      }
-            
+      header,
+      .sample,
       footer {
-        background-color: #2a3043;
-        color: #eee;
-        text-align: center;
-        font-size: 14px;
+        padding: 30px 30px;
       }
-      
-      footer a {
-        color: #D7DD77;
-        text-decoration: underline;
+      header h1 {
+        font-size: 2.2rem;
       }
+    }
+  </style>
+</head>
 
-      @media all and (max-width: 480px){
-        header, .sample, footer {
-          padding: 50px 30px;
-        }
-      }
-    </style>
-  </head>
-  
-  <body>
+<body>
+  <main>
     <header>
-      <h1>فونت فارسی شبنم</h1>
+      <h1>فونت فارسی <span>شبنم</span></h1>
       <div class="description">قلمی آزاد برای استفاده همگان</div>
       <div class="get">
-        <a href="https://github.com/rastikerdar/shabnam-font/releases/download/v2.4.0/shabnam-font-v2.4.0.zip" class="download">دریافت (دانلود)</a>
+        <a href="https://github.com/rastikerdar/shabnam-font/releases/download/v3.0.0/shabnam-font-v3.0.0.zip" class="download">دریافت (دانلود)</a>
         <a href="https://github.com/rastikerdar/shabnam-font" class="github">GitHub</a>
       </div>
       <div class="info">
-        <div>آخرین نسخه: 2.4.0</div>
+        <div>آخرین نسخه: 3.0.0</div>
         <div>مجوز: SIL Open Font License 1.1</div>
         <div>در صورت مشاهده ایراد یا داشتن هر گونه پیشنهادی تقاضا می‌گردد در میان بگذارید.</div>
         <div class="other-fonts">سایر قلم‌های آزاد:
-           <a href="http://rastikerdar.github.io/sahel-font/" target="_blank">ساحل</a>،
-           <a href="http://rastikerdar.github.io/tanha-font/" target="_blank">تنها</a>،
-           <a href="http://rastikerdar.github.io/parastoo-font/" target="_blank">پرستو</a>،
-           <a href="http://rastikerdar.github.io/samim-font/" target="_blank">صمیم</a>،
-           <a href="http://rastikerdar.github.io/vazir-font/" target="_blank">وزیر</a>،
-           <a href="http://rastikerdar.github.io/gandom-font/" target="_blank">گندم</a>
+          <a href="http://rastikerdar.github.io/sahel-font/" target="_blank">ساحل</a>،
+          <a href="http://rastikerdar.github.io/tanha-font/" target="_blank">تنها</a>،
+          <a href="http://rastikerdar.github.io/parastoo-font/" target="_blank">پرستو</a>،
+          <a href="http://rastikerdar.github.io/samim-font/" target="_blank">صمیم</a>،
+          <a href="http://rastikerdar.github.io/vazir-font/" target="_blank">وزیر</a>،
+          <a href="http://rastikerdar.github.io/gandom-font/" target="_blank">گندم</a>
         </div>
         <div class="infobox">نسخه‌های شامل حروف لاتین Roboto، بدون حروف لاتین و تمام ارقام فارسی در بسته فشرده (zip) فونت موجود می‌باشد.</div>
-       </div>
+      </div>
     </header>
 
     <section class="sample sec-test second">
       <p style="font-weight: 300;">
-وزن نازک: <br>
-حضور طراحی گرافیک Graphic Design در تبلیغات (تجاری، فرهنگی و...) به قدری چشمگیر و اثربخش است که همواره از گرافیک به عنوان نخستین جلوه‌گاه عناصر دیداری در تبلیغات یاد می‌شود. فرآیند تبلیغات به روش‌های مختلف هدف‌گذاری و اجرا می‌شود. بسیاری از شاخص‌های فرهنگی، اجتماعی، سیاسی و آیینی... در شکل‌گیری ساختار و تعیین محتوا و دستیابی به اهداف نهایی یک بسته تبلیغاتی موثر هستند.
+        وزن نازک:
+        <br> حضور طراحی گرافیک Graphic Design در تبلیغات (تجاری، فرهنگی و...) به قدری چشمگیر و اثربخش است که همواره از گرافیک
+        به عنوان نخستین جلوه‌گاه عناصر دیداری در تبلیغات یاد می‌شود. فرآیند تبلیغات به روش‌های مختلف هدف‌گذاری و اجرا می‌شود.
+        بسیاری از شاخص‌های فرهنگی، اجتماعی، سیاسی و آیینی... در شکل‌گیری ساختار و تعیین محتوا و دستیابی به اهداف نهایی یک
+        بسته تبلیغاتی موثر هستند.
       </p>
       <p style="font-weight: normal;">
-وزن معمولی: <br>
-حضور طراحی گرافیک Graphic Design در تبلیغات (تجاری، فرهنگی و...) به قدری چشمگیر و اثربخش است که همواره از گرافیک به عنوان نخستین جلوه‌گاه عناصر دیداری در تبلیغات یاد می‌شود. فرآیند تبلیغات به روش‌های مختلف هدف‌گذاری و اجرا می‌شود. بسیاری از شاخص‌های فرهنگی، اجتماعی، سیاسی و آیینی... در شکل‌گیری ساختار و تعیین محتوا و دستیابی به اهداف نهایی یک بسته تبلیغاتی موثر هستند.
+        وزن معمولی:
+        <br> حضور طراحی گرافیک Graphic Design در تبلیغات (تجاری، فرهنگی و...) به قدری چشمگیر و اثربخش است که همواره از گرافیک
+        به عنوان نخستین جلوه‌گاه عناصر دیداری در تبلیغات یاد می‌شود. فرآیند تبلیغات به روش‌های مختلف هدف‌گذاری و اجرا می‌شود.
+        بسیاری از شاخص‌های فرهنگی، اجتماعی، سیاسی و آیینی... در شکل‌گیری ساختار و تعیین محتوا و دستیابی به اهداف نهایی یک
+        بسته تبلیغاتی موثر هستند.
       </p>
       <p style="font-weight: bold;">
-وزن ضخیم: <br>
-حضور طراحی گرافیک Graphic Design در تبلیغات (تجاری، فرهنگی و...) به قدری چشمگیر و اثربخش است که همواره از گرافیک به عنوان نخستین جلوه‌گاه عناصر دیداری در تبلیغات یاد می‌شود. فرآیند تبلیغات به روش‌های مختلف هدف‌گذاری و اجرا می‌شود. بسیاری از شاخص‌های فرهنگی، اجتماعی، سیاسی و آیینی... در شکل‌گیری ساختار و تعیین محتوا و دستیابی به اهداف نهایی یک بسته تبلیغاتی موثر هستند.
+        وزن ضخیم:
+        <br> حضور طراحی گرافیک Graphic Design در تبلیغات (تجاری، فرهنگی و...) به قدری چشمگیر و اثربخش است که همواره از گرافیک
+        به عنوان نخستین جلوه‌گاه عناصر دیداری در تبلیغات یاد می‌شود. فرآیند تبلیغات به روش‌های مختلف هدف‌گذاری و اجرا می‌شود.
+        بسیاری از شاخص‌های فرهنگی، اجتماعی، سیاسی و آیینی... در شکل‌گیری ساختار و تعیین محتوا و دستیابی به اهداف نهایی یک
+        بسته تبلیغاتی موثر هستند.
       </p>
-      <p>از <a href="https://fa.wikipedia.org/wiki/%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C_%DA%AF%D8%B1%D8%A7%D9%81%DB%8C%DA%A9">طراحی گرافیک</a></p>
+      <p>از
+        <a href="https://fa.wikipedia.org/wiki/%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C_%DA%AF%D8%B1%D8%A7%D9%81%DB%8C%DA%A9">طراحی گرافیک</a>
+      </p>
     </section>
 
     <section class="sample sec3">
       <h2>طراحی</h2>
       <p>
-این فونت بر مبنای قلم‌ <a href="http://rastikerdar.github.io/vazir-font/" target="_blank">وزیر</a> ساخته شده که خود باز طراحی فونت <a href="http://dejavu-fonts.org">DejaVu 2.35</a> می‌باشد. توضیحات مربوط به فونت اصلی و مجوز آن را می‌توانید در تارنمای پروژه فونت DejaVu مشاهده نمایید. در طراحی این قلم از فونت یکان نیز الهام گرفته شده است.
-</p>
+        این فونت بر مبنای قلم‌
+        <a href="http://rastikerdar.github.io/vazir-font/" target="_blank">وزیر</a> ساخته شده که خود باز طراحی فونت
+        <a href="http://dejavu-fonts.org">DejaVu 2.35</a> می‌باشد. توضیحات مربوط به فونت اصلی و مجوز آن را می‌توانید در تارنمای پروژه فونت DejaVu مشاهده نمایید.
+        در طراحی این قلم از فونت یکان نیز الهام گرفته شده است.
+      </p>
     </section>
-        
-    <footer>
-      صفحه وبلاگ برای ثبت دیدگاه پیرامون قلم شبنم:
-      <a href="http://rastikerdar.blog.ir/1394/08/19/%D9%82%D9%84%D9%85-%D9%81%D9%88%D9%86%D8%AA-%D9%81%D8%A7%D8%B1%D8%B3%DB%8C-%D8%B4%D8%A8%D9%86%D9%85" target="_blank">rastikerdar.blog.ir</a>
-      <br>
-      توسط صابر راستی کردار
-      <br>
-      saber.rastikerdar بر روی جیمیل
-      <br>
-      © 2015
-    </footer>
-  </body>
+  </main>
+  <footer>
+    صفحه وبلاگ برای ثبت دیدگاه پیرامون قلم شبنم:
+    <a href="http://rastikerdar.blog.ir/1394/08/19/%D9%82%D9%84%D9%85-%D9%81%D9%88%D9%86%D8%AA-%D9%81%D8%A7%D8%B1%D8%B3%DB%8C-%D8%B4%D8%A8%D9%86%D9%85"
+      target="_blank">rastikerdar.blog.ir</a>
+    <br> توسط صابر راستی کردار
+    <br> saber.rastikerdar بر روی جیمیل
+    <br> © 2015
+  </footer>
+</body>
+
 </html>
