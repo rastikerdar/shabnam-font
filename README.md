@@ -56,6 +56,12 @@ bower install shabnam-font --save
 ```
 npm install shabnam-font --save
 ```
+
+#### yarn
+```
+yarn add shabnam-font --save
+```
+
 Fonts will be copied to `npm_modules/shabnam-font/dist` directory
 
 Or [RawGit](https://rawgit.com) CDN:
