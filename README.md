@@ -4,6 +4,8 @@
 [![npm](https://img.shields.io/npm/v/shabnam-font.svg)](https://www.npmjs.com/package/shabnam-font)
 <p dir="rtl">فونت (قلم) فارسی شبنم</p>
 <p dir="rtl"><a href="http://rastikerdar.github.io/shabnam-font/">نمایش فونت</a></p>
+<img src='https://user-images.githubusercontent.com/11364402/58275790-267b3880-7dab-11e9-9ad8-9910cf9ae4e3.png' alt='shabnam font preview'>
+
 <p dir="rtl">با تشکر از برنامه <a href="https://fontforge.github.io">FontForge</a></p>
 <p dir="rtl">بر مبنای <a href="http://rastikerdar.github.io/vazir-font/" dir="rtl">فونت وزیر</a></p>
 <h2 id="-" dir="rtl">طریقه استفاده در صفحات وب:</h2>
