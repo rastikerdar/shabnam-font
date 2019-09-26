@@ -5,7 +5,7 @@ A Persian (Farsi) Font
 
 فونت فارسی شبنم  
 [نمایش فونت - صفحه رسمی پروژه](https://rastikerdar.github.io/shabnam-font/)  
-[صفحه دریافت (دانلود) بسته فونت شامل فایل های ttf,woff,eot](https://github.com/rastikerdar/vazir-font/releases)  
+[صفحه دریافت (دانلود) بسته فونت شامل فایل های ttf,woff,eot](https://github.com/rastikerdar/shabnam-font/releases)  
 با تشکر از برنامه [FontForge](https://fontforge.github.io)  
 بر مبنای فونت [وزیر](https://rastikerdar.github.io/vazir-font)  
 نسخه‌های بدون حروف لاتین یا تمام ارقام فارسی درون بسته فشرده موجود می‌باشد.  
