@@ -20,10 +20,30 @@
 
 @font-face {
   font-family: Shabnam;
+  src: url('Shabnam-Thin.eot');
+  src: url('Shabnam-Thin.eot?#iefix') format('embedded-opentype'),
+       url('Shabnam-Thin.woff2') format('woff2'),
+       url('Shabnam-Thin.woff') format('woff'),
+       url('Shabnam-Thin.ttf') format('truetype');
+  font-weight: 100;
+}
+
+@font-face {
+  font-family: Shabnam;
   src: url('Shabnam-Light.eot');
   src: url('Shabnam-Light.eot?#iefix') format('embedded-opentype'),
        url('Shabnam-Light.woff2') format('woff2'),
        url('Shabnam-Light.woff') format('woff'),
        url('Shabnam-Light.ttf') format('truetype');
   font-weight: 300;
+}
+
+@font-face {
+  font-family: Shabnam;
+  src: url('Shabnam-Medium.eot');
+  src: url('Shabnam-Medium.eot?#iefix') format('embedded-opentype'),
+       url('Shabnam-Medium.woff2') format('woff2'),
+       url('Shabnam-Medium.woff') format('woff'),
+       url('Shabnam-Medium.ttf') format('truetype');
+  font-weight: 500;
 }

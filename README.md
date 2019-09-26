@@ -1,14 +1,20 @@
-<h1 id="shabnam-font">Shabnam Font</h1>
-<p>A Persian (Farsi) Font</p>
+# Shabnam Font
+A Persian (Farsi) Font
 
 [![npm](https://img.shields.io/npm/v/shabnam-font.svg)](https://www.npmjs.com/package/shabnam-font)
-<p dir="rtl">فونت (قلم) فارسی شبنم</p>
-<p dir="rtl"><a href="http://rastikerdar.github.io/shabnam-font/">نمایش فونت</a></p>
-<img src='https://user-images.githubusercontent.com/11364402/58275790-267b3880-7dab-11e9-9ad8-9910cf9ae4e3.png' alt='shabnam font preview'>
 
-<p dir="rtl">با تشکر از برنامه <a href="https://fontforge.github.io">FontForge</a></p>
-<p dir="rtl">بر مبنای <a href="http://rastikerdar.github.io/vazir-font/" dir="rtl">فونت وزیر</a></p>
-<h2 id="-" dir="rtl">طریقه استفاده در صفحات وب:</h2>
+فونت فارسی شبنم  
+[نمایش فونت - صفحه رسمی پروژه](https://rastikerdar.github.io/shabnam-font/)  
+[صفحه دریافت (دانلود) بسته فونت شامل فایل های ttf,woff,eot](https://github.com/rastikerdar/vazir-font/releases)  
+با تشکر از برنامه [FontForge](https://fontforge.github.io)  
+بر مبنای فونت [وزیر](https://rastikerdar.github.io/vazir-font)  
+نسخه‌های بدون حروف لاتین یا تمام ارقام فارسی درون بسته فشرده موجود می‌باشد.  
+فرآیند تولید بسته نهایی شامل انواع نسخه‌ها و فرمت‌ها توسط ابزار [fontbuilder](https://github.com/rastikerdar/fontbuilder) انجام می‌شود.
+
+## نمونه متن Sample:
+![نمونه متن فونت شبنم](./sample.png)
+
+## طریقه استفاده در صفحات وب:
 
 <p dir="rtl">
 کد زیر را در قسمت style یا فایل css وارد نمایید:
@@ -20,15 +26,17 @@
   font-family: Shabnam;
   src: url('Shabnam.eot');
   src: url('Shabnam.eot?#iefix') format('embedded-opentype'),
+       url('Shabnam.woff2') format('woff2'),
        url('Shabnam.woff') format('woff'),
        url('Shabnam.ttf') format('truetype');
   font-weight: normal;
 }
-      
+
 @font-face {
   font-family: Shabnam;
   src: url('Shabnam-Bold.eot');
   src: url('Shabnam-Bold.eot?#iefix') format('embedded-opentype'),
+       url('Shabnam-Bold.woff2') format('woff2'),
        url('Shabnam-Bold.woff') format('woff'),
        url('Shabnam-Bold.ttf') format('truetype');
   font-weight: bold;
@@ -36,11 +44,32 @@
 
 @font-face {
   font-family: Shabnam;
+  src: url('Shabnam-Thin.eot');
+  src: url('Shabnam-Thin.eot?#iefix') format('embedded-opentype'),
+       url('Shabnam-Thin.woff2') format('woff2'),
+       url('Shabnam-Thin.woff') format('woff'),
+       url('Shabnam-Thin.ttf') format('truetype');
+  font-weight: 100;
+}
+
+@font-face {
+  font-family: Shabnam;
   src: url('Shabnam-Light.eot');
   src: url('Shabnam-Light.eot?#iefix') format('embedded-opentype'),
+       url('Shabnam-Light.woff2') format('woff2'),
        url('Shabnam-Light.woff') format('woff'),
        url('Shabnam-Light.ttf') format('truetype');
   font-weight: 300;
+}
+
+@font-face {
+  font-family: Shabnam;
+  src: url('Shabnam-Medium.eot');
+  src: url('Shabnam-Medium.eot?#iefix') format('embedded-opentype'),
+       url('Shabnam-Medium.woff2') format('woff2'),
+       url('Shabnam-Medium.woff') format('woff'),
+       url('Shabnam-Medium.ttf') format('truetype');
+  font-weight: 500;
 }
 ```
 
@@ -72,7 +101,7 @@ Or [RawGit](https://rawgit.com) CDN:
 <link href="https://cdn.rawgit.com/rastikerdar/shabnam-font/v[X.Y.Z]/dist/font-face.css" rel="stylesheet" type="text/css" />
 ```
 
-Replace [X.Y.Z] with the latest version (e.g. 4.0.0) and integrate the font into your CSS:
+Replace [X.Y.Z] with the latest version (e.g. 5.0.0) and integrate the font into your CSS:
 
 ```
 font-family: 'Shabnam', sans-serif;
