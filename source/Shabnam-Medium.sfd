@@ -4,7 +4,7 @@ FullName: Shabnam Medium
 FamilyName: Shabnam Medium
 Weight: Medium
 Copyright: Copyright (c) 2003 by Bitstream, Inc. All Rights Reserved.\nDejaVu changes are in public domain\nChanges by Saber Rastikerdar are in public domain.\nNon-Arabic(Latin) glyphs and data in extended version are imported from Roboto font under the Apache License, Version 2.0.
-Version: 5.0.0
+Version: 5.0.1
 ItalicAngle: 0
 UnderlinePosition: -500
 UnderlineWidth: 100
@@ -23,7 +23,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1431850356
-ModificationTime: 1569484606
+ModificationTime: 1573911180
 PfmFamily: 33
 TTFWeight: 500
 TTFWidth: 5
@@ -68,15 +68,14 @@ Lookup: 4 1 1 "'rlig' Required Ligatures in Arabic lookup 14" { "'rlig' Required
 Lookup: 6 9 0 "'calt' Contextual Alternates lookup 1" { "'calt' Contextual Alternates lookup 1 subtable 1"  "'calt' Contextual Alternates lookup 1 subtable 2"  } ['calt' ('DFLT' <'dflt' > 'arab' <'FAR ' 'KUR ' 'URD ' 'dflt' > ) ]
 Lookup: 4 9 1 "'liga' Standard Ligatures in Arabic lookup 17" { "'liga' Standard Ligatures in Arabic lookup 17 subtable"  } ['liga' ('DFLT' <'dflt' > 'arab' <'FAR ' 'KUR ' 'URD ' 'dflt' > ) ]
 Lookup: 4 1 1 "'liga' Standard Ligatures in Arabic lookup 19" { "'liga' Standard Ligatures in Arabic lookup 19 subtable"  } ['liga' ('DFLT' <'dflt' > 'arab' <'FAR ' 'KUR ' 'URD ' 'dflt' > ) ]
-Lookup: 258 9 0 "'kern' Horizontal Kerning lookup 15" { "'kern' Horizontal Kerning lookup 15-6" [307,30,2] "'kern' Horizontal Kerning lookup 15-5" [307,30,2] "'kern' Horizontal Kerning lookup 15-4" [307,30,2] "'kern' Horizontal Kerning lookup 15-2" [307,30,2] "'kern' Horizontal Kerning lookup 15-1" [307,30,2] "'kern' Horizontal Kerning lookup 15-3" [307,30,2] } ['kern' ('DFLT' <'dflt' > 'arab' <'KUR ' 'SND ' 'URD ' 'dflt' > 'armn' <'dflt' > 'brai' <'dflt' > 'cans' <'dflt' > 'cher' <'dflt' > 'cyrl' <'MKD ' 'SRB ' 'dflt' > 'geor' <'dflt' > 'grek' <'dflt' > 'hani' <'dflt' > 'hebr' <'dflt' > 'kana' <'dflt' > 'lao ' <'dflt' > 'latn' <'ISM ' 'KSM ' 'LSM ' 'MOL ' 'NSM ' 'ROM ' 'SKS ' 'SSM ' 'dflt' > 'math' <'dflt' > 'nko ' <'dflt' > 'ogam' <'dflt' > 'runr' <'dflt' > 'tfng' <'dflt' > 'thai' <'dflt' > ) ]
-Lookup: 260 1 0 "'mark' Mark Positioning lookup 7" { "'mark' Mark Positioning lookup 7 subtable"  } ['mark' ('arab' <'KUR ' 'SND ' 'URD ' 'dflt' > 'hebr' <'dflt' > 'nko ' <'dflt' > ) ]
-Lookup: 261 1 0 "'mark' Mark Positioning lookup 8" { "'mark' Mark Positioning lookup 8 subtable"  } ['mark' ('arab' <'KUR ' 'SND ' 'URD ' 'dflt' > 'hebr' <'dflt' > 'nko ' <'dflt' > ) ]
-Lookup: 260 1 0 "'mark' Mark Positioning lookup 9" { "'mark' Mark Positioning lookup 9 subtable"  } ['mark' ('arab' <'KUR ' 'SND ' 'URD ' 'dflt' > 'hebr' <'dflt' > 'nko ' <'dflt' > ) ]
-Lookup: 261 1 0 "'mark' Mark Positioning lookup 5" { "'mark' Mark Positioning lookup 5 subtable"  } ['mark' ('arab' <'KUR ' 'SND ' 'URD ' 'dflt' > 'hebr' <'dflt' > 'nko ' <'dflt' > ) ]
-Lookup: 260 1 0 "'mark' Mark Positioning lookup 6" { "'mark' Mark Positioning lookup 6 subtable"  } ['mark' ('arab' <'KUR ' 'SND ' 'URD ' 'dflt' > 'hebr' <'dflt' > 'nko ' <'dflt' > ) ]
-Lookup: 262 1 0 "'mkmk' Mark to Mark in Arabic lookup 1" { "'mkmk' Mark to Mark in Arabic lookup 1 subtable"  } ['mkmk' ('arab' <'KUR ' 'SND ' 'URD ' 'dflt' > ) ]
-Lookup: 262 4 0 "'mkmk' Mark to Mark lookup 4" { "'mkmk' Mark to Mark lookup 4 anchor 0"  "'mkmk' Mark to Mark lookup 4 anchor 1"  } ['mkmk' ('cyrl' <'MKD ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'latn' <'ISM ' 'KSM ' 'LSM ' 'MOL ' 'NSM ' 'ROM ' 'SKS ' 'SSM ' 'dflt' > ) ]
-Lookup: 262 1 0 "'mkmk' Mark to Mark in Arabic lookup 0" { "'mkmk' Mark to Mark in Arabic lookup 0 subtable"  } ['mkmk' ('arab' <'KUR ' 'SND ' 'URD ' 'dflt' > ) ]
+Lookup: 258 9 0 "'kern' Horizontal Kerning lookup 15" { "'kern' Horizontal Kerning lookup 15-6" [307,30,2] "'kern' Horizontal Kerning lookup 15-5" [307,30,2] "'kern' Horizontal Kerning lookup 15-4" [307,30,2] "'kern' Horizontal Kerning lookup 15-2" [307,30,2] "'kern' Horizontal Kerning lookup 15-1" [307,30,2] "'kern' Horizontal Kerning lookup 15-3" [307,30,2] } ['kern' ('DFLT' <'dflt' > 'arab' <'FAR ' 'KUR ' 'URD ' 'dflt' > ) ]
+Lookup: 260 1 0 "'mark' Mark Positioning lookup 7" { "'mark' Mark Positioning lookup 7 subtable"  } ['mark' ('DFLT' <'dflt' > 'arab' <'FAR ' 'KUR ' 'URD ' 'dflt' > ) ]
+Lookup: 261 1 0 "'mark' Mark Positioning lookup 8" { "'mark' Mark Positioning lookup 8 subtable"  } ['mark' ('DFLT' <'dflt' > 'arab' <'FAR ' 'KUR ' 'URD ' 'dflt' > ) ]
+Lookup: 260 1 0 "'mark' Mark Positioning lookup 9" { "'mark' Mark Positioning lookup 9 subtable"  } ['mark' ('DFLT' <'dflt' > 'arab' <'FAR ' 'KUR ' 'URD ' 'dflt' > ) ]
+Lookup: 261 1 0 "'mark' Mark Positioning lookup 5" { "'mark' Mark Positioning lookup 5 subtable"  } ['mark' ('DFLT' <'dflt' > 'arab' <'FAR ' 'KUR ' 'URD ' 'dflt' > ) ]
+Lookup: 260 1 0 "'mark' Mark Positioning lookup 6" { "'mark' Mark Positioning lookup 6 subtable"  } ['mark' ('DFLT' <'dflt' > 'arab' <'FAR ' 'KUR ' 'URD ' 'dflt' > ) ]
+Lookup: 262 1 0 "'mkmk' Mark to Mark in Arabic lookup 1" { "'mkmk' Mark to Mark in Arabic lookup 1 subtable"  } ['mkmk' ('DFLT' <'dflt' > 'arab' <'FAR ' 'KUR ' 'URD ' 'dflt' > ) ]
+Lookup: 262 1 0 "'mkmk' Mark to Mark in Arabic lookup 0" { "'mkmk' Mark to Mark in Arabic lookup 0 subtable"  } ['mkmk' ('DFLT' <'dflt' > 'arab' <'FAR ' 'KUR ' 'URD ' 'dflt' > ) ]
 MarkAttachClasses: 5
 "MarkClass-1" 307 gravecomb acutecomb uni0302 tildecomb uni0304 uni0305 uni0306 uni0307 uni0308 hookabovecomb uni030A uni030B uni030C uni030D uni030E uni030F uni0310 uni0311 uni0312 uni0313 uni0314 uni0315 uni033D uni033E uni033F uni0340 uni0341 uni0342 uni0343 uni0344 uni0346 uni034A uni034B uni034C uni0351 uni0352 uni0357
 "MarkClass-2" 300 uni0316 uni0317 uni0318 uni0319 uni031C uni031D uni031E uni031F uni0320 uni0321 uni0322 dotbelowcomb uni0324 uni0325 uni0326 uni0329 uni032A uni032B uni032C uni032D uni032E uni032F uni0330 uni0331 uni0332 uni0333 uni0339 uni033A uni033B uni033C uni0345 uni0347 uni0348 uni0349 uni034D uni034E uni0353
@@ -97,7 +96,7 @@ ChainSub2: coverage "'calt' Contextual Alternates lookup 1 subtable 1" 0 0 0 1
  1
   SeqLookup: 0 "Single Substitution 1"
 EndFPST
-LangName: 1033 "" "" "" "Shabnam Medium" "" "Version 5.0.0" "" "" "DejaVu fonts team - Redesigned by Saber Rastikerdar - Based on Vazir font" "" "" "" "" "Changes to Arabic glyphs by me are under SIL Open Font License 1.1+AAoA-Glyphs and data from Roboto font are licensed under the Apache License, Version 2.0.+AAoACgAA-Fonts are (c) Bitstream (see below). DejaVu changes are in public domain. +AAoACgAA-Bitstream Vera Fonts Copyright+AAoA-------------------------------+AAoACgAA-Copyright (c) 2003 by Bitstream, Inc. All Rights Reserved. Bitstream Vera is+AAoA-a trademark of Bitstream, Inc.+AAoACgAA-Permission is hereby granted, free of charge, to any person obtaining a copy+AAoA-of the fonts accompanying this license (+ACIA-Fonts+ACIA) and associated+AAoA-documentation files (the +ACIA-Font Software+ACIA), to reproduce and distribute the+AAoA-Font Software, including without limitation the rights to use, copy, merge,+AAoA-publish, distribute, and/or sell copies of the Font Software, and to permit+AAoA-persons to whom the Font Software is furnished to do so, subject to the+AAoA-following conditions:+AAoACgAA-The above copyright and trademark notices and this permission notice shall+AAoA-be included in all copies of one or more of the Font Software typefaces.+AAoACgAA-The Font Software may be modified, altered, or added to, and in particular+AAoA-the designs of glyphs or characters in the Fonts may be modified and+AAoA-additional glyphs or characters may be added to the Fonts, only if the fonts+AAoA-are renamed to names not containing either the words +ACIA-Bitstream+ACIA or the word+AAoAIgAA-Vera+ACIA.+AAoACgAA-This License becomes null and void to the extent applicable to Fonts or Font+AAoA-Software that has been modified and is distributed under the +ACIA-Bitstream+AAoA-Vera+ACIA names.+AAoACgAA-The Font Software may be sold as part of a larger software package but no+AAoA-copy of one or more of the Font Software typefaces may be sold by itself.+AAoACgAA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND, EXPRESS+AAoA-OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY,+AAoA-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT,+AAoA-TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL BITSTREAM OR THE GNOME+AAoA-FOUNDATION BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING+AAoA-ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES,+AAoA-WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF+AAoA-THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE+AAoA-FONT SOFTWARE.+AAoACgAA-Except as contained in this notice, the names of Gnome, the Gnome+AAoA-Foundation, and Bitstream Inc., shall not be used in advertising or+AAoA-otherwise to promote the sale, use or other dealings in this Font Software+AAoA-without prior written authorization from the Gnome Foundation or Bitstream+AAoA-Inc., respectively. For further information, contact: fonts at gnome dot+AAoA-org. " "http://scripts.sil.org/OFL_web +AAoA-http://dejavu.sourceforge.net/wiki/index.php/License+AAoA-http://www.apache.org/licenses/LICENSE-2.0" "" "Shabnam" "Medium"
+LangName: 1033 "" "" "" "Shabnam Medium" "" "Version 5.0.1" "" "" "DejaVu fonts team - Redesigned by Saber Rastikerdar - Based on Vazir font" "" "" "" "" "Changes to Arabic glyphs by me are under SIL Open Font License 1.1+AAoA-Glyphs and data from Roboto font are licensed under the Apache License, Version 2.0.+AAoACgAA-Fonts are (c) Bitstream (see below). DejaVu changes are in public domain. +AAoACgAA-Bitstream Vera Fonts Copyright+AAoA-------------------------------+AAoACgAA-Copyright (c) 2003 by Bitstream, Inc. All Rights Reserved. Bitstream Vera is+AAoA-a trademark of Bitstream, Inc.+AAoACgAA-Permission is hereby granted, free of charge, to any person obtaining a copy+AAoA-of the fonts accompanying this license (+ACIA-Fonts+ACIA) and associated+AAoA-documentation files (the +ACIA-Font Software+ACIA), to reproduce and distribute the+AAoA-Font Software, including without limitation the rights to use, copy, merge,+AAoA-publish, distribute, and/or sell copies of the Font Software, and to permit+AAoA-persons to whom the Font Software is furnished to do so, subject to the+AAoA-following conditions:+AAoACgAA-The above copyright and trademark notices and this permission notice shall+AAoA-be included in all copies of one or more of the Font Software typefaces.+AAoACgAA-The Font Software may be modified, altered, or added to, and in particular+AAoA-the designs of glyphs or characters in the Fonts may be modified and+AAoA-additional glyphs or characters may be added to the Fonts, only if the fonts+AAoA-are renamed to names not containing either the words +ACIA-Bitstream+ACIA or the word+AAoAIgAA-Vera+ACIA.+AAoACgAA-This License becomes null and void to the extent applicable to Fonts or Font+AAoA-Software that has been modified and is distributed under the +ACIA-Bitstream+AAoA-Vera+ACIA names.+AAoACgAA-The Font Software may be sold as part of a larger software package but no+AAoA-copy of one or more of the Font Software typefaces may be sold by itself.+AAoACgAA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND, EXPRESS+AAoA-OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY,+AAoA-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT,+AAoA-TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL BITSTREAM OR THE GNOME+AAoA-FOUNDATION BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING+AAoA-ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES,+AAoA-WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF+AAoA-THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE+AAoA-FONT SOFTWARE.+AAoACgAA-Except as contained in this notice, the names of Gnome, the Gnome+AAoA-Foundation, and Bitstream Inc., shall not be used in advertising or+AAoA-otherwise to promote the sale, use or other dealings in this Font Software+AAoA-without prior written authorization from the Gnome Foundation or Bitstream+AAoA-Inc., respectively. For further information, contact: fonts at gnome dot+AAoA-org. " "http://scripts.sil.org/OFL_web +AAoA-http://dejavu.sourceforge.net/wiki/index.php/License+AAoA-http://www.apache.org/licenses/LICENSE-2.0" "" "Shabnam" "Medium"
 GaspTable: 2 8 2 65535 3 0
 MATH:ScriptPercentScaleDown: 80
 MATH:ScriptScriptPercentScaleDown: 60
@@ -166,8 +165,12 @@ FitToEm: 1
 WinInfo: 0 25 13
 BeginPrivate: 0
 EndPrivate
+Grid
+-2048 1709.10003662 m 0
+ 4096 1709.10003662 l 1024
+EndSplineSet
 TeXData: 1 0 0 307200 153600 102400 553984 -1048576 102400 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-AnchorClass2: "Anchor-0" "'mkmk' Mark to Mark in Arabic lookup 0 subtable" "Anchor-1" "'mkmk' Mark to Mark in Arabic lookup 1 subtable" "Anchor-2"""  "Anchor-3"""  "Anchor-4" "'mkmk' Mark to Mark lookup 4 anchor 0" "Anchor-5" "'mkmk' Mark to Mark lookup 4 anchor 1" "Anchor-6" "'mark' Mark Positioning lookup 5 subtable" "Anchor-7" "'mark' Mark Positioning lookup 6 subtable" "Anchor-8" "'mark' Mark Positioning lookup 7 subtable" "Anchor-9" "'mark' Mark Positioning lookup 8 subtable" "Anchor-10" "'mark' Mark Positioning lookup 9 subtable" "Anchor-11"""  "Anchor-12"""  "Anchor-13"""  "Anchor-14"""  "Anchor-15"""  "Anchor-16"""  "Anchor-17"""  "Anchor-18"""  "Anchor-19""" 
+AnchorClass2: "Anchor-0" "'mkmk' Mark to Mark in Arabic lookup 0 subtable" "Anchor-1" "'mkmk' Mark to Mark in Arabic lookup 1 subtable" "Anchor-2"""  "Anchor-3"""  "Anchor-4"""  "Anchor-5"""  "Anchor-6" "'mark' Mark Positioning lookup 5 subtable" "Anchor-7" "'mark' Mark Positioning lookup 6 subtable" "Anchor-8" "'mark' Mark Positioning lookup 7 subtable" "Anchor-9" "'mark' Mark Positioning lookup 8 subtable" "Anchor-10" "'mark' Mark Positioning lookup 9 subtable" "Anchor-11"""  "Anchor-12"""  "Anchor-13"""  "Anchor-14"""  "Anchor-15"""  "Anchor-16"""  "Anchor-17"""  "Anchor-18"""  "Anchor-19""" 
 BeginChars: 65581 327
 
 StartChar: space
@@ -389,21 +392,21 @@ Width: 807
 VWidth: 2551
 GlyphClass: 2
 Flags: HW
-AnchorPoint: "Anchor-7" 437 -34 basechar 0
+AnchorPoint: "Anchor-7" 437 -44 basechar 0
 AnchorPoint: "Anchor-10" 394 1090 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-436 866 m 0
- 501.49609375 866 556.168945312 851.798828125 603.333007812 830.181640625 c 2
- 615 824.833984375 l 1
- 615 812 l 1
- 615 665 l 1
- 615 637.075195312 l 1
- 588.561523438 646.064453125 l 2
- 540.532226562 662.39453125 493.89453125 670 445 670 c 0
- 343.954101562 670 275 599.498046875 275 524 c 0
- 275 417.40625 380.505859375 358 498 358 c 0
+445 811 m 0
+ 510.625976562 811 575.43359375 796.134765625 623.333007812 774.181640625 c 2
+ 635 768.833984375 l 1
+ 635 756 l 1
+ 635 609 l 1
+ 635 581.075195312 l 1
+ 608.561523438 590.064453125 l 2
+ 561.083007812 606.20703125 502.705078125 615 454 615 c 0
+ 349.848632812 615 295 568.2578125 295 494 c 0
+ 295 390.296875 406.391601562 358 498 358 c 0
  542.616210938 358 595.641601562 372.708007812 657.833984375 404.776367188 c 2
  679.262695312 415.825195312 l 1
  686.163085938 392.723632812 l 1
@@ -414,11 +417,11 @@ SplineSet
  157.122070312 -0.55859375 l 1
  149.58984375 17.185546875 l 1
  90.58984375 156.185546875 l 1
- 82.2880859375 175.743164062 l 1
- 102.311523438 182.848632812 l 1
- 267.708984375 241.538085938 l 1
- 142.54296875 294.854492188 74 379.40625 74 534 c 0
- 74 712.564453125 223.921875 866 436 866 c 0
+ 82.4560546875 175.34765625 l 1
+ 101.928710938 182.708007812 l 1
+ 260.276367188 242.5625 l 1
+ 155.947265625 287.88671875 94 370.212890625 94 504 c 0
+ 94 683.170898438 234.470703125 811 445 811 c 0
 EndSplineSet
 EndChar
 
@@ -433,13 +436,14 @@ AnchorPoint: "Anchor-10" 251.317 1557 basechar 0
 AnchorPoint: "Anchor-7" 297.317 -111.5 basechar 0
 LayerCount: 2
 Fore
-Refer: 15 1575 N 1 0 0 0.8505 44 3.28954 2
+Refer: 15 1575 S 1 0 0 0.8505 49 3.28954 2
 Refer: 54 1619 N 1 0 0 1 -141.522 -217.5 2
-PairPos2: "'kern' Horizontal Kerning lookup 15-3" uniFB90 dx=81 dy=0 dh=81 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-3" uniFB94 dx=81 dy=0 dh=81 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-3" uniFEDB dx=81 dy=0 dh=81 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-3" uni06AF dx=81 dy=0 dh=81 dv=0 dx=0 dy=0 dh=0 dv=0
-PairPos2: "'kern' Horizontal Kerning lookup 15-3" uni06A9 dx=81 dy=0 dh=81 dv=0 dx=0 dy=0 dh=0 dv=0
+PairPos2: "'kern' Horizontal Kerning lookup 15-3" uniFED7 dx=60 dy=0 dh=60 dv=0 dx=0 dy=0 dh=0 dv=0
+PairPos2: "'kern' Horizontal Kerning lookup 15-3" uniFB90 dx=120 dy=0 dh=120 dv=0 dx=0 dy=0 dh=0 dv=0
+PairPos2: "'kern' Horizontal Kerning lookup 15-3" uniFB94 dx=120 dy=0 dh=120 dv=0 dx=0 dy=0 dh=0 dv=0
+PairPos2: "'kern' Horizontal Kerning lookup 15-3" uniFEDB dx=120 dy=0 dh=120 dv=0 dx=0 dy=0 dh=0 dv=0
+PairPos2: "'kern' Horizontal Kerning lookup 15-3" uni06AF dx=120 dy=0 dh=120 dv=0 dx=0 dy=0 dh=0 dv=0
+PairPos2: "'kern' Horizontal Kerning lookup 15-3" uni06A9 dx=120 dy=0 dh=120 dv=0 dx=0 dy=0 dh=0 dv=0
 LCarets2: 1 0
 Ligature2: "'liga' Standard Ligatures in Arabic lookup 19 subtable" uni0627 uni0653
 Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uniFE82
@@ -1864,22 +1868,20 @@ Width: 11
 VWidth: 2551
 GlyphClass: 4
 Flags: HW
-AnchorPoint: "Anchor-10" 392 1465 mark 0
-AnchorPoint: "Anchor-9" 392 1465 mark 0
+AnchorPoint: "Anchor-10" 402 1465 mark 0
+AnchorPoint: "Anchor-9" 402 1465 mark 0
 AnchorPoint: "Anchor-1" 387 1771 basemark 0
-AnchorPoint: "Anchor-1" 392 1465 mark 0
+AnchorPoint: "Anchor-1" 402 1465 mark 0
 LayerCount: 2
 Fore
 SplineSet
-313 1709 m 6
- 711 1709 l 5
+323 1709 m 2
+ 711 1709 l 1
  713 1541 l 1
- 323 1541 l 2
- 255 1541 203 1518 169 1474 c 2
- 155 1455 l 1
- 57 1577 l 5
- 66 1590 l 6
- 118 1669 200 1709 313 1709 c 6
+ 333 1541 l 2
+ 250.619140625 1541 214 1486 183 1414 c 1
+ 52 1489 l 1
+ 90 1618 188.157226562 1709 323 1709 c 2
 EndSplineSet
 EndChar
 
@@ -4285,15 +4287,15 @@ EndChar
 StartChar: uniFE94
 Encoding: 65172 65172 159
 GlifName: uniF_E_94
-Width: 1080
+Width: 1060
 VWidth: 2186
 GlyphClass: 2
 Flags: HW
-AnchorPoint: "Anchor-10" 562.5 1553.5 basechar 0
+AnchorPoint: "Anchor-10" 552.5 1553.5 basechar 0
 AnchorPoint: "Anchor-7" 432 -202 basechar 0
 LayerCount: 2
 Fore
-Refer: 265 -1 S 1 0 0 1 309 1129 2
+Refer: 265 -1 S 1 0 0 1 299 1129 2
 Refer: 245 65258 N 1 0 0 1 0 0 2
 EndChar
 
@@ -6428,40 +6430,40 @@ EndChar
 StartChar: uniFEEA
 Encoding: 65258 65258 245
 GlifName: uniF_E_E_A_
-Width: 1080
-VWidth: 2551
+Width: 1060
+VWidth: 2571
 GlyphClass: 2
 Flags: HW
-AnchorPoint: "Anchor-10" 671 1180 basechar 0
-AnchorPoint: "Anchor-7" 585 -202 basechar 0
+AnchorPoint: "Anchor-10" 651 1180 basechar 0
+AnchorPoint: "Anchor-7" 595 -202 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-1085 0 m 6
- 1039 0 l 2
- 883 0 758.232421875 61.8203125 699.041015625 187 c 1
- 533 187 l 2
- 198.120117188 187 80 314.234375 80 487 c 4
- 80 691.014648438 260.288085938 795.953125 560.611328125 851.352539062 c 1
- 606.861328125 858.723632812 l 1
- 601.140625 906.62890625 l 1
- 598.858398438 925.745117188 l 1
- 617.874023438 928.75390625 l 1
- 775.874023438 953.75390625 l 1
- 796.41015625 957.00390625 l 1
- 798.860351562 936.357421875 l 1
- 866.793945312 363.915039062 l 1
- 887.424804688 248.627929688 943 220 1050 220 c 2
- 1085 220 l 6
- 1106 220 1110 165.04296875 1110 117 c 6
- 1110 106 l 6
- 1110 56.2763671875 1106 0 1085 0 c 6
-661.403320312 400 m 1
- 631.63671875 643.231445312 l 1
- 593.909179688 637.68359375 l 2
- 412.509765625 611.009765625 284 564.440429688 284 500 c 4
- 284 429.254882812 344.172851562 400 518 400 c 2
- 661.403320312 400 l 1
+1020 0 m 6
+ 863 0 738.232421875 61.8203125 679.041015625 187 c 1
+ 513 187 l 2
+ 207.987304688 187 80 313.577148438 80 477 c 0
+ 80 679.327148438 239.579101562 795.822265625 540.611328125 851.352539062 c 1
+ 586.861328125 858.723632812 l 1
+ 581.140625 906.62890625 l 1
+ 578.858398438 925.745117188 l 1
+ 597.874023438 928.75390625 l 1
+ 755.874023438 953.75390625 l 1
+ 776.41015625 957.00390625 l 1
+ 778.860351562 936.357421875 l 1
+ 846.793945312 363.915039062 l 1
+ 867.424804688 248.627929688 923 220 1031 220 c 6
+ 1066 220 l 6
+ 1087 220 1091 165.04296875 1091 117 c 6
+ 1091 106 l 6
+ 1091 56.2763671875 1087 0 1066 0 c 6
+ 1020 0 l 6
+641.403320312 400 m 1
+ 611.63671875 643.231445312 l 1
+ 573.91015625 637.684570312 l 2
+ 394.328125 611.276367188 284 556.68359375 284 490 c 0
+ 284 429.895507812 344.145507812 400 498 400 c 2
+ 641.403320312 400 l 1
 EndSplineSet
 EndChar
 
@@ -7239,7 +7241,7 @@ EndChar
 StartChar: uni06D5.fina
 Encoding: 65551 -1 274
 GlifName: uni06D_5.fina
-Width: 1080
+Width: 1060
 VWidth: 2703
 GlyphClass: 2
 Flags: HW
@@ -7580,14 +7582,14 @@ EndChar
 StartChar: uniFBA5.fina
 Encoding: 64421 64421 292
 GlifName: uniF_B_A_5.fina
-Width: 1080
+Width: 1060
 VWidth: 2553
 Flags: HW
 AnchorPoint: "Anchor-7" 491.281 -220.565 basechar 0
-AnchorPoint: "Anchor-10" 573.183 1692.91 basechar 0
+AnchorPoint: "Anchor-10" 553.183 1692.91 basechar 0
 LayerCount: 2
 Fore
-Refer: 298 -1 N 1 0 0 1 56 1294 2
+Refer: 298 -1 S 1 0 0 1 36 1294 2
 Refer: 245 65258 N 1 0 0 1 0 0 2
 LCarets2: 1 0
 Ligature2: "'liga' Standard Ligatures in Arabic lookup 19 subtable" uniFEEA uni0654
@@ -8098,7 +8100,7 @@ EndChar
 
 StartChar: uniFE8A.compact
 Encoding: 65576 -1 322
-Width: 1377
+Width: 1381
 VWidth: 2703
 Flags: HW
 AnchorPoint: "Anchor-7" 699.902 -656.086 basechar 0
@@ -8106,12 +8108,12 @@ AnchorPoint: "Anchor-10" 657.667 1171.17 basechar 0
 LayerCount: 2
 Fore
 Refer: 321 -1 N 1 0 0 1 0 0 2
-Refer: 55 1620 S 1 0 0 1 62.9298 -1211.34 2
+Refer: 55 1620 N 1 0 0 1 62.9298 -1211.34 2
 EndChar
 
 StartChar: uniFEF2.compact
 Encoding: 65577 -1 323
-Width: 1377
+Width: 1381
 VWidth: 2703
 Flags: HW
 AnchorPoint: "Anchor-10" 681.6 653.22 basechar 0
@@ -8119,7 +8121,7 @@ AnchorPoint: "Anchor-7" 677.902 -1022.09 basechar 0
 LayerCount: 2
 Fore
 Refer: 321 -1 N 1 0 0 1 0 0 2
-Refer: 265 -1 S 1 0 0 1 456 -813 2
+Refer: 265 -1 N 1 0 0 1 456 -813 2
 EndChar
 
 StartChar: uniFECC.compact
@@ -8174,11 +8176,11 @@ EndChar
 
 StartChar: uni06CE.fina.compact
 Encoding: 65578 -1 326
-Width: 1377
+Width: 1381
 Flags: HW
 LayerCount: 2
 Fore
-Refer: 58 1626 S 1 0 0 1 51 -946 2
+Refer: 58 1626 N 1 0 0 1 51 -946 2
 Refer: 321 -1 N 1 0 0 1 0 0 2
 EndChar
 EndChars
