@@ -115,7 +115,7 @@ Arch user's could use [shabnam-fonts](https://aur.archlinux.org/packages/shabnam
 pacaur -S shabnam-fonts
 ```
 
-#### Linux
+#### GNU/Linux
 gnu/linux users could use [kateb](https://github.com/kiamazi/kateb) font manager, to install shabnam font.
 
 ```
