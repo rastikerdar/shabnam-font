@@ -116,17 +116,9 @@ pacaur -S shabnam-fonts
 ```
 
 #### Linux
-gnu/inux users could use [kateb](https://github.com/kiamazi/kateb) font manager, to install shabnam font.
+gnu/linux users could use [kateb](https://github.com/kiamazi/kateb) font manager, to install shabnam font.
 
-ubuntu users must install this dependensies too:
 ```
-sudo apt install openssl libssl-dev
-````
-
-##### install kateb
-```
-sudo cpan kateb
-
 kateb install shabnam
 or
 kateb update shabnam
