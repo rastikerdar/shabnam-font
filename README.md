@@ -93,12 +93,13 @@ npm install shabnam-font --save
 yarn add shabnam-font --save
 ```
 
-Fonts will be copied to `npm_modules/shabnam-font/dist` directory
+Fonts will be copied to `npm_modules/shabnam-font/dist` directory.
 
-Or [RawGit](https://rawgit.com) CDN:
+#### CDN
+Link fonts from the [jsDelivr](https://www.jsdelivr.com/) CDN:
 
 ```html
-<link href="https://cdn.rawgit.com/rastikerdar/shabnam-font/v[X.Y.Z]/dist/font-face.css" rel="stylesheet" type="text/css" />
+<link href="https://cdn.jsdelivr.net/gh/rastikerdar/shabnam-font@v[X.Y.Z]/dist/font-face.css" rel="stylesheet" type="text/css" />
 ```
 
 Replace [X.Y.Z] with the latest version (e.g. 5.0.1) and integrate the font into your CSS:
