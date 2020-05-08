@@ -129,6 +129,23 @@
         font-size: 2.2rem;
       }
     }
+
+    .singlefile {
+      margin-bottom: 10px;
+    }
+
+    .singlefile a {
+      display: inline-block;
+      border-bottom: 1px solid #d5d5d5;
+      color: #007fba;
+      margin: 5px 10px 0;
+      font-size: 1em;
+    }
+
+    .singlefile select {
+      font-family: shabnam;
+      min-width: 80px;
+    }
   </style>
 </head>
 
@@ -141,6 +158,17 @@
         <a href="https://github.com/rastikerdar/shabnam-font/releases/download/v5.0.1/shabnam-font-v5.0.1.zip" class="download">دریافت (دانلود)</a>
         <a href="https://github.com/rastikerdar/shabnam-font" class="github">GitHub</a>
       </div>
+      <div class="singlefile">
+        دانلود فایل نسخه
+        <select onchange="setSingleFileDownload(this.value, 'Shabnam', 'v5.0.1')">
+          <option value="Thin">نازک</option>
+          <option value="Light">سبک</option>
+          <option value="Regular" selected="selected">معمولی</option>
+          <option value="Medium">متوسط</option>
+          <option value="Bold">ضخیم</option>
+        </select>
+        <a id="singlefiledownload" href="https://cdn.jsdelivr.net/gh/rastikerdar/shabnam-font@v5.0.1/dist/Shabnam.ttf">Shabnam.ttf</a>
+    </div>
       <div class="info">
         <div>آخرین نسخه: 5.0.1</div>
         <div>مجوز: SIL Open Font License 1.1</div>
@@ -216,6 +244,15 @@
     <br> saber.rastikerdar بر روی جیمیل
     <br> © 2015
   </footer>
+
+  <script>
+    function setSingleFileDownload(weight, font, version) {
+      var filename = font + (weight != "Regular" ? "-"+weight : '') +".ttf";
+      var singlefiledownloadEl = document.getElementById("singlefiledownload");
+      singlefiledownloadEl.text = filename;
+      singlefiledownloadEl.href = "https://cdn.jsdelivr.net/gh/rastikerdar/"+font.toLowerCase()+"-font@"+version+"/dist/"+filename;
+    }
+  </script>
 </body>
 
 </html>
