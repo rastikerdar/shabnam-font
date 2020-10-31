@@ -6,6 +6,7 @@
        url('Shabnam.woff') format('woff'),
        url('Shabnam.ttf') format('truetype');
   font-weight: normal;
+  font-display: swap;
 }
 
 @font-face {
@@ -16,6 +17,7 @@
        url('Shabnam-Bold.woff') format('woff'),
        url('Shabnam-Bold.ttf') format('truetype');
   font-weight: bold;
+  font-display: swap;
 }
 
 @font-face {
@@ -26,6 +28,7 @@
        url('Shabnam-Thin.woff') format('woff'),
        url('Shabnam-Thin.ttf') format('truetype');
   font-weight: 100;
+  font-display: swap;
 }
 
 @font-face {
@@ -36,6 +39,7 @@
        url('Shabnam-Light.woff') format('woff'),
        url('Shabnam-Light.ttf') format('truetype');
   font-weight: 300;
+  font-display: swap;
 }
 
 @font-face {
@@ -46,4 +50,5 @@
        url('Shabnam-Medium.woff') format('woff'),
        url('Shabnam-Medium.ttf') format('truetype');
   font-weight: 500;
+  font-display: swap;
 }
