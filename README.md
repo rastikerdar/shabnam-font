@@ -73,6 +73,34 @@ A Persian (Farsi) Font
 }
 ```
 
+```sass
+$path: '../fonts/shabnam/'
+$suffix: '-FD-WOL'
+$types: (normal : '', bold:'-Bold', 100:'-Thin', 300:'-Light', 500:'-Medium')
+
+@each $weight, $type in $types
+    @font-face
+        font-family: Shabnam
+        src: url('#{$path}Shabnam#{$type}#{$suffix}.eot')
+        src: url('#{$path}Shabnam#{$type}#{$suffix}.eot?#iefix') format('embedded-opentype'), url('#{$path}Shabnam#{$type}#{$suffix}.woff2') format('woff2'), url('#{$path}Shabnam#{$type}#{$suffix}.woff') format('woff'), url('#{$path}Shabnam#{$type}#{$suffix}.ttf') format('truetype')
+        font-weight: $weight
+```
+
+```scss
+$path: "../fonts/shabnam/";
+$suffix: "-FD-WOL";
+$types: (normal: "", bold: "-Bold", 100: "-Thin", 300: "-Light", 500: "-Medium");
+
+@each $weight, $type in $types {
+  @font-face {
+    font-family: Shabnam;
+    src: url("#{$path}Shabnam#{$type}#{$suffix}.eot");
+    src: url("#{$path}Shabnam#{$type}#{$suffix}.eot?#iefix") format("embedded-opentype"), url("#{$path}Shabnam#{$type}#{$suffix}.woff2") format("woff2"), url("#{$path}Shabnam#{$type}#{$suffix}.woff") format("woff"), url("#{$path}Shabnam#{$type}#{$suffix}.ttf") format("truetype");
+    font-weight: $weight;
+  }
+}
+```
+
 ## Install
 
 Grab the [latest release](https://github.com/rastikerdar/shabnam-font/releases/latest) file.
