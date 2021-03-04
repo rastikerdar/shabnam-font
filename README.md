@@ -3,6 +3,8 @@ A Persian (Farsi) Font
 
 [![npm](https://img.shields.io/npm/v/shabnam-font.svg)](https://www.npmjs.com/package/shabnam-font)
 
+## توسعه این پروژه متوقف و بایگانی شده است. این موضوع شامل تمامی ابعاد پروژه از طراحی گرافته تا رفع اشکال می‌شود. قسمت ایشوهای مخزن همچنان باز است.
+
 فونت فارسی شبنم  
 [نمایش فونت - صفحه رسمی پروژه](https://rastikerdar.github.io/shabnam-font/)  
 [صفحه دریافت (دانلود) بسته فونت شامل فایل های ttf,woff,eot](https://github.com/rastikerdar/shabnam-font/releases)  
