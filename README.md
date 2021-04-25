@@ -72,7 +72,7 @@ A Persian (Farsi) Font
   font-weight: 500;
 }
 ```
-
+Sass:
 ```sass
 $path: '../fonts/shabnam/'
 $suffix: '-FD-WOL'
@@ -86,6 +86,7 @@ $types: (normal : '', bold:'-Bold', 100:'-Thin', 300:'-Light', 500:'-Medium')
         font-weight: $weight
 ```
 
+Scss:
 ```scss
 $path: "../fonts/shabnam/";
 $suffix: "-FD-WOL";
